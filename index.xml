@@ -5,12 +5,33 @@
     <link>https://hagachi.github.io/</link>
       <atom:link href="https://hagachi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Haga, Chihiro</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Haga, Chihiro</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Haga, Chihiro</copyright><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Haga, Chihiro</title>
       <link>https://hagachi.github.io/</link>
     </image>
+    
+    <item>
+      <title>Short talk at Public Online Symposium of Ecological Society of Japan &#34;Mainstreaming renewable energy in decade of action requires ecologists&#34;</title>
+      <link>https://hagachi.github.io/talk/short-talk-at-public-online-symposium-of-ecological-society-of-japan-mainstreaming-renewable-energy-in-decade-of-action-requires-ecologists/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/short-talk-at-public-online-symposium-of-ecological-society-of-japan-mainstreaming-renewable-energy-in-decade-of-action-requires-ecologists/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Development of a Species Identification System of Japanese Bats from Echolocation Calls Using Convolutional Neural Networks</title>
@@ -182,6 +203,16 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <description>&lt;p&gt;このプロジェクトでは主に現在の生態系の状態を観測することに焦点を当てています。&lt;/p&gt;
 &lt;p&gt;現在の生態系の状態を把握することは生物多様性保全のために必須ですが、人口減少で人手が減る中で、広域の森林や野生生物を調査するのはとても困難です。そこで、機械学習を用いてドローンや衛星画像から森林属性情報を取得・識別したり、音声録音データから鳥類の種を判別する技術開発を行っています。&lt;/p&gt;
 &lt;p&gt;民間企業と分析技術の実装で技術連携しつつ、大学構内や福島県などを対象に研究開発しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nexus between biodiversity and renewable energy</title>
+      <link>https://hagachi.github.io/project/nexus/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/nexus/</guid>
+      <description>&lt;p&gt;生物多様性・再生可能エネルギーのネクサス解明に取り組んでいます。プロジェクトのURLはこちら！
+&lt;a href=&#34;https://github.com/Green-Engineers-Lab/REROUTES&#34;&gt;https://github.com/Green-Engineers-Lab/REROUTES&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
