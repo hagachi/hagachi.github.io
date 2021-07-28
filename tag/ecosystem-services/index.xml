@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ecosystem Services | Haga, Chihiro</title>
+    <title>ecosystem services | Haga, Chihiro</title>
     <link>https://hagachi.github.io/tag/ecosystem-services/</link>
       <atom:link href="https://hagachi.github.io/tag/ecosystem-services/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ecosystem Services</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Haga, Chihiro</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <description>ecosystem services</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Haga, Chihiro</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Ecosystem Services</title>
+      <title>ecosystem services</title>
       <link>https://hagachi.github.io/tag/ecosystem-services/</link>
     </image>
+    
+    <item>
+      <title>A Scenario- and Spatial-Downscaling-Based Land-Use Modeling Framework to Improve the Projections of Plausible Futures: A Case Study of the Guangdong–Hong Kong–Macao Greater Bay Area, China</title>
+      <link>https://hagachi.github.io/publication/shi-scenario-spatialdownscalingbased-landuse-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/shi-scenario-spatialdownscalingbased-landuse-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nexus between biodiversity and renewable energy</title>
