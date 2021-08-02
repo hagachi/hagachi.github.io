@@ -5,12 +5,30 @@
     <link>https://hagachi.github.io/tag/climate-change/</link>
       <atom:link href="https://hagachi.github.io/tag/climate-change/index.xml" rel="self" type="application/rss+xml" />
     <description>climate change</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Haga, Chihiro</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Haga, Chihiro</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>climate change</title>
       <link>https://hagachi.github.io/tag/climate-change/</link>
     </image>
+    
+    <item>
+      <title>Development of a Forest Landscape Simulation Model for Assessing Disturbance Impacts on Forest Ecosystems in Shiga Prefecture</title>
+      <link>https://hagachi.github.io/project/shigaism/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/shigaism/</guid>
+      <description>&lt;p&gt;森林生態系は脱炭素化や地域資源利用に向けて地域社会を支える根幹を担う役割が期待されています。そのため気候変動や人間による管理などの自然・人為撹乱によって森林の資源量と質が今後どのように遷移するかを事前に把握することが求められます。そこで本研究課題では、滋賀県を事例として、日本国内の基礎自治体スケールで空間明示的に様々な撹乱に伴う森林の植生動態を将来予測するためのシミュレーションモデルを構築します。具体的には、北米大陸を中心に林業のシナリオ分析のために開発され国内でも利用が進んでいるForest Landscape Model (FLM) を用いて、植生遷移に伴う森林蓄積の頑健な予測モデルの構築を行います。本課題は滋賀県琵琶湖科学研究センターと共同で実施し、滋賀県での事例研究を通じて有用性を評価しつつ、日本国内の他の地域に水平展開するための課題を整理します。研究課題は以下2点です。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;生物多様性データベースと森林資源情報を用いたパラメータ整備とモデル校正・検証&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;地域スケールでの森林植生動態モデリングの信頼性向上や迅速かつスケーラブルな水平展開に資するため、パラメータ収集・校正などモデル運用のベストプラクティスの共有基盤を整備します。過去20年間で急速に発展したFLMの研究では欧米を中心とした研究グループが各自にモデルを整備しており、運用知識の共有に課題がありました。そこで、Ready-to-useな植生遷移モデルを整備するべく、国内外の生物多様性データベースや国内のローカルスケールの林業データを活用したFLMモデルの運用プロトコルを開発します。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;森林植生動態モデリングへの複数の撹乱要因の統合化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;実用的な森林植生動態モデリングのため、不確実性が高く影響が大きい撹乱要因の統合シミュレーション環境を構築します。現在、広葉樹林への誘導などで天然更新に注目が集まっていますが、気候変動下やシカの食害など様々な撹乱により更新が失敗することが問題視されています。これまでの空間明示型のモデリング研究では、個々の撹乱の発生確率や影響評価が行われてきました、地域スケールでの統合が課題です。そこで、日本の林業で重要となる複数の撹乱要因を、基礎自治体スケールを対象として植生動態モデリングに高空間分解能で統合を試みます。&lt;/p&gt;
+&lt;p&gt;Haga C., Kataoka Y., Matsui T., Tsuruta K., Nakagawa K., Kim J., and Kimura M. (PI). Development of a Forest Landscape Simulation Model for Assessing Disturbance Impacts on Forest Ecosystems in Shiga Prefecture, ISM Cooperative Research Program Foundation, Specially Promoted Research.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Risk Assessment of Forest Disturbance by Typhoons with Heavy Precipitation in Northern Japan</title>
