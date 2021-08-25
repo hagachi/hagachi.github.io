@@ -5,12 +5,33 @@
     <link>https://hagachi.github.io/tag/scenario-analysis/</link>
       <atom:link href="https://hagachi.github.io/tag/scenario-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>scenario analysis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Haga, Chihiro</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Haga, Chihiro</copyright><lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>scenario analysis</title>
       <link>https://hagachi.github.io/tag/scenario-analysis/</link>
     </image>
+    
+    <item>
+      <title>Open online lecture of &#34;Development and application of gravity-based population allocation model&#34;</title>
+      <link>https://hagachi.github.io/talk/open-online-lecture-of-development-and-application-of-gravity-based-population-allocation-model/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/open-online-lecture-of-development-and-application-of-gravity-based-population-allocation-model/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>A Scenario- and Spatial-Downscaling-Based Land-Use Modeling Framework to Improve the Projections of Plausible Futures: A Case Study of the Guangdong–Hong Kong–Macao Greater Bay Area, China</title>
