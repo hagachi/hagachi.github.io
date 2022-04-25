@@ -5,12 +5,20 @@
     <link>https://hagachi.github.io/</link>
       <atom:link href="https://hagachi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Haga, Chihiro</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Haga, Chihiro</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Haga, Chihiro</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Haga, Chihiro</title>
       <link>https://hagachi.github.io/</link>
     </image>
+    
+    <item>
+      <title>Renewable Energy Nexus: Interlinkages with Biodiversity and Social Issues in Japan</title>
+      <link>https://hagachi.github.io/publication/tanaka-renewable-energy-nexus-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/tanaka-renewable-energy-nexus-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of Urbanization on the Food– Water– Land– Ecosystem Nexus: A Study of Shenzhen, China</title>
@@ -527,8 +535,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://hagachi.github.io/project/nexus/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://hagachi.github.io/project/nexus/</guid>
-      <description>&lt;p&gt;生物多様性・再生可能エネルギーのネクサス解明に取り組んでいます。プロジェクトのURLはこちら！
-&lt;a href=&#34;https://github.com/Green-Engineers-Lab/REROUTES&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Green-Engineers-Lab/REROUTES&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;This project aims to identify critical interlinkages among social-ecological systems in Japan. We created a spacially high-resolution renewable energy potential map to design sustainable de-carbonization pathways in harmony with nature. Please visit our project site and see our publications!&lt;/p&gt;
 </description>
     </item>
     
