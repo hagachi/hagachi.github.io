@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;crown segmentation&#34; | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/tag/crown-segmentation/</link>
+      <atom:link href="https://hagachi.github.io/tag/crown-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;crown segmentation&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Haga, Chihiro</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;crown segmentation&#34;</title>
+      <link>https://hagachi.github.io/tag/crown-segmentation/</link>
+    </image>
+    
+    <item>
+      <title>An End to End Process Development for UAV-SfM Based Forest Monitoring: Individual Tree Detection, Species Classification and Carbon Dynamics Simulation</title>
+      <link>https://hagachi.github.io/publication/fujimoto-end-end-process-2019-b/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/fujimoto-end-end-process-2019-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

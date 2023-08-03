@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/tag/machine-learning/</link>
+      <atom:link href="https://hagachi.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Haga, Chihiro</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>machine learning</title>
+      <link>https://hagachi.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Assisting Biomonitoring using Data-science Technologies</title>
+      <link>https://hagachi.github.io/project/ecological-monitoring/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/ecological-monitoring/</guid>
+      <description>&lt;p&gt;このプロジェクトでは主に現在の生態系の状態を観測することに焦点を当てています。&lt;/p&gt;
+&lt;p&gt;現在の生態系の状態を把握することは生物多様性保全のために必須ですが、人口減少で人手が減る中で、広域の森林や野生生物を調査するのはとても困難です。そこで、機械学習を用いてドローンや衛星画像から森林属性情報を取得・識別したり、音声録音データから鳥類の種を判別する技術開発を行っています。&lt;/p&gt;
+&lt;p&gt;民間企業と分析技術の実装で技術連携しつつ、大学構内や福島県などを対象に研究開発しています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/publication/</link>
+      <atom:link href="https://hagachi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Haga, Chihiro</copyright>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://hagachi.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Modeling desirable futures at local scale by combining the nature futures framework and multi-objective optimization</title>
+      <link>https://hagachi.github.io/publication/haga-modeling-2023/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-modeling-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Deep Learning Enhance the Estimation for Spatially Explicit Built Environment Stocks through Nighttime Light Data Set? Evidence from Japanese Metropolitans</title>
+      <link>https://hagachi.github.io/publication/liu-does-2023/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/liu-does-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominant temperate and subalpine Japanese trees have variable photosynthetic thermal optima according to site mean annual temperature</title>
+      <link>https://hagachi.github.io/publication/kobayashi-dominant-2023/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/kobayashi-dominant-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Tree Recovery in Wind-Disturbed Forests with Dense Understory Species under Climate Change</title>
+      <link>https://hagachi.github.io/publication/haga-modeling-tree-recovery-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-modeling-tree-recovery-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling a Landscape Using Nature Futures Framework: A Case Study in Japan</title>
+      <link>https://hagachi.github.io/publication/haga-modelling-landscape-using-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-modelling-landscape-using-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renewable Energy Nexus: Interlinkages with Biodiversity and Social Issues in Japan</title>
+      <link>https://hagachi.github.io/publication/tanaka-renewable-energy-nexus-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/tanaka-renewable-energy-nexus-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Urbanization on the Food– Water– Land– Ecosystem Nexus: A Study of Shenzhen, China</title>
+      <link>https://hagachi.github.io/publication/shi-impact-urbanization-food-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/shi-impact-urbanization-food-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Input-Output Analysis of Japanese Industry&#39;s Dependency on Nature</title>
+      <link>https://hagachi.github.io/publication/nakahira-input-output-analysis-japanese-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/nakahira-input-output-analysis-japanese-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biodiversity Mainstreaming: An International Comparative Investigation of Concerns Toward Biodiversity in Chinese- and Japanese-speaking Communities</title>
+      <link>https://hagachi.github.io/publication/zhou-biodiversity-mainstreaming-international-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/zhou-biodiversity-mainstreaming-international-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Energy Utilization Scenarios for Wood Biomass as a Nature-based Solution</title>
+      <link>https://hagachi.github.io/publication/kim-evaluation-energy-utilization-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/kim-evaluation-energy-utilization-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Cumulative Impacts of Windthrow and Subsequent Management on Tree Species Composition and Aboveground Biomass: A Simulation Study Considering Regeneration on Downed Logs</title>
+      <link>https://hagachi.github.io/publication/hotta-longterm-cumulative-impacts-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/hotta-longterm-cumulative-impacts-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Synergies and Trade-Offs of Forest Management in Shiga</title>
+      <link>https://hagachi.github.io/publication/yuta-modeling-synergies-trade-offs-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/yuta-modeling-synergies-trade-offs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting and Assessing Natural Capital and Ecosystem Services (PANCES) Project in Japan</title>
+      <link>https://hagachi.github.io/publication/haga-predicting-assessing-natural-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-predicting-assessing-natural-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>衛星画像を用いた畳み込みニューラルネットワークによる建物延床面積推計に関する研究</title>
+      <link>https://hagachi.github.io/publication/zhaiteng-wei-xing-hua-xiangwo-yongita-diemi-ipminiyurarunetutowakuniyoru-jian-wu-yan-chuang-mian-ji-tui-jini-guansuru-yan-jiu-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/zhaiteng-wei-xing-hua-xiangwo-yongita-diemi-ipminiyurarunetutowakuniyoru-jian-wu-yan-chuang-mian-ji-tui-jini-guansuru-yan-jiu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of Bird Species Identifier Using Deep Learning Based on Convolutional Neural Network and Transformer Algorithms</title>
+      <link>https://hagachi.github.io/publication/sato-development-bird-species-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/sato-development-bird-species-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scenario Analysis of Nexuses between Renewable Energy, Biodiversity, and Ecosystem Services in the Bekambeushi River Watershed, Japan</title>
+      <link>https://hagachi.github.io/publication/haga-scenario-analysis-nexuses-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-scenario-analysis-nexuses-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>社会・生態システムでの再生可能エネルギーネクサスの分析：導入ポテンシャルの高空間解像度化プログラムの公開</title>
+      <link>https://hagachi.github.io/publication/fanghe-she-hui-sheng-taisisutemudeno-zai-sheng-ke-nengeneruginekusasuno-fen-xi-dao-rupotensiyaruno-gao-kong-jian-jie-xiang-du-huapuroguramuno-gong-kai-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/fanghe-she-hui-sheng-taisisutemudeno-zai-sheng-ke-nengeneruginekusasuno-fen-xi-dao-rupotensiyaruno-gao-kong-jian-jie-xiang-du-huapuroguramuno-gong-kai-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Errors and Uncertainties Associated with the Use of Unconventional Activity Data for Estimating CO2 Emissions: The Case for Traffic Emissions in Japan</title>
+      <link>https://hagachi.github.io/publication/oda-errors-uncertainties-associated-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/oda-errors-uncertainties-associated-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>再生可能エネルギーポテンシャル空間明示マップの開発と応用</title>
+      <link>https://hagachi.github.io/publication/tianzhong-zai-sheng-ke-nengenerugipotensiyaru-kong-jian-ming-shimatupuno-kai-fato-ying-yong-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/tianzhong-zai-sheng-ke-nengenerugipotensiyaru-kong-jian-ming-shimatupuno-kai-fato-ying-yong-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scenario- and Spatial-Downscaling-Based Land-Use Modeling Framework to Improve the Projections of Plausible Futures: A Case Study of the Guangdong–Hong Kong–Macao Greater Bay Area, China</title>
+      <link>https://hagachi.github.io/publication/shi-scenario-spatialdownscalingbased-landuse-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/shi-scenario-spatialdownscalingbased-landuse-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mainstreaming Renewable Energy in Decade of Action Requires Ecologists</title>
+      <link>https://hagachi.github.io/publication/haga-mainstreaming-renewable-energy-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-mainstreaming-renewable-energy-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a Species Identification System of Japanese Bats from Echolocation Calls Using Convolutional Neural Networks</title>
+      <link>https://hagachi.github.io/publication/kobayashi-development-species-identification-2021-a/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/kobayashi-development-species-identification-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Survey Method Using Convolutional Neural Networks for Automatic Classification of Bird Calls</title>
+      <link>https://hagachi.github.io/publication/maegawa-new-survey-method-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/maegawa-new-survey-method-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptation after windthrow: Conservation of forest ecosystem in a future climate</title>
+      <link>https://hagachi.github.io/publication/haga-adaptation-windthrow-conservation-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-adaptation-windthrow-conservation-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Assessment of Forest Disturbance by Typhoons with Heavy Precipitation in Northern Japan</title>
+      <link>https://hagachi.github.io/publication/morimoto-risk-assessment-forest-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/morimoto-risk-assessment-forest-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Demand-Supply Gap Analysis of Ecosystem Services and Evaluation of Area Coupling Effect for Forming Regional Circular Ecological Sphere</title>
+      <link>https://hagachi.github.io/publication/miyamoto-demand-supply-gap-analysis-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/miyamoto-demand-supply-gap-analysis-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Development of Visualization Method of Climate Justice for Supporting Complementation among Local Areas under Climate Change</title>
+      <link>https://hagachi.github.io/publication/fukumori-development-visualization-method-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/fukumori-development-visualization-method-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生物多様性保全と再生可能エネルギーの導入は両立可能か?- 別寒辺牛川流域を対象として-</title>
+      <link>https://hagachi.github.io/publication/fanghe-sheng-wu-duo-yang-xing-bao-quanto-zai-sheng-ke-nengenerugino-dao-ruha-liang-li-ke-nengka-bie-han-bian-niu-chuan-liu-yuwo-dui-xiangtosite-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/fanghe-sheng-wu-duo-yang-xing-bao-quanto-zai-sheng-ke-nengenerugino-dao-ruha-liang-li-ke-nengka-bie-han-bian-niu-chuan-liu-yuwo-dui-xiangtosite-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future Prediction of Biomass Supply Potential under Climate Change Scenarios using Forest Landscape Simulation Model for Regional Circular and Ecological Sphere</title>
+      <link>https://hagachi.github.io/publication/namba-future-prediction-biomass-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/namba-future-prediction-biomass-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDGsの目標達成に向けた環境音識別技術の開発 : 深層学習を用いた日本産コウモリ30種の種判別システムの構築</title>
+      <link>https://hagachi.github.io/publication/xiaolin-sd-gsno-mu-biao-da-chengni-xiangketa-huan-jing-yin-shi-bie-ji-shuno-kai-fa-shen-ceng-xue-xiwo-yongita-ri-ben-chankoumori-30-zhongno-zhong-pan-biesisutemuno-gou-zhu-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/xiaolin-sd-gsno-mu-biao-da-chengni-xiangketa-huan-jing-yin-shi-bie-ji-shuno-kai-fa-shen-ceng-xue-xiwo-yongita-ri-ben-chankoumori-30-zhongno-zhong-pan-biesisutemuno-gou-zhu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is LANDIS-II?</title>
+      <link>https://hagachi.github.io/publication/haga-what-landisii-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-what-landisii-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scenario Analysis of Renewable Energy–Biodiversity Nexuses Using a Forest Landscape Model</title>
+      <link>https://hagachi.github.io/publication/haga-scenario-analysis-renewable-2020-e/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-scenario-analysis-renewable-2020-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>移住意向と関係人口に関する実態調査と関係人口の都道府県別推計</title>
+      <link>https://hagachi.github.io/publication/ku-yi-zhu-yi-xiangto-guan-xi-ren-kouni-guansuru-shi-tai-diao-chato-guan-xi-ren-kouno-du-dao-fu-xian-bie-tui-ji-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/ku-yi-zhu-yi-xiangto-guan-xi-ren-kouni-guansuru-shi-tai-diao-chato-guan-xi-ren-kouno-du-dao-fu-xian-bie-tui-ji-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>衛星夜間光情報に基づく深層学習による建築物の延床面積推計に関する研究</title>
+      <link>https://hagachi.github.io/publication/zhaiteng-wei-xing-ye-jian-guang-qing-baoni-jiduku-shen-ceng-xue-xiniyoru-jian-zhu-wuno-yan-chuang-mian-ji-tui-jini-guansuru-yan-jiu-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/zhaiteng-wei-xing-ye-jian-guang-qing-baoni-jiduku-shen-ceng-xue-xiniyoru-jian-zhu-wuno-yan-chuang-mian-ji-tui-jini-guansuru-yan-jiu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An End to End Process Development for UAV-SfM Based Forest Monitoring: Individual Tree Detection, Species Classification and Carbon Dynamics Simulation</title>
+      <link>https://hagachi.github.io/publication/fujimoto-end-end-process-2019-b/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/fujimoto-end-end-process-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are There Potential Conflicts among Renewable Energy, Biodiversity, and Ecosystem Services? Scenario Analysis of Land Use Management and Selection among Renewable Energy Alternatives</title>
+      <link>https://hagachi.github.io/publication/haga-are-there-potential-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-are-there-potential-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of Natural Capital and Ecosystem Services in a Watershed in Northern Japan Focusing on the Future Underuse of Nature: By Linking Forest Landscape Model and Social Scenarios</title>
+      <link>https://hagachi.github.io/publication/haga-simulation-natural-capital-2019-h/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-simulation-natural-capital-2019-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially Explicit Residential and Working Population Assumptions for Projecting and Assessing Natural Capital and Ecosystem Services in Japan</title>
+      <link>https://hagachi.github.io/publication/matsui-spatially-explicit-residential-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/matsui-spatially-explicit-residential-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined Effects of Future Changes Land Use/Cover and Climate on Nitrogen Leaching to Stream Water in a Forest, Farmland and Wetland Dominated Landscape, Northern Japan</title>
+      <link>https://hagachi.github.io/publication/inoue-combined-effects-future-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/inoue-combined-effects-future-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scenario Analysis of Landscape Change and Evaluation of Terrestrial Ecosystem Services and Landscape Diversity Using Forest Landscape Model</title>
+      <link>https://hagachi.github.io/publication/haga-scenario-analysis-landscape-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-scenario-analysis-landscape-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scenario Analysis of Land-Use and Ecosystem Services of Social-Ecological Landscapes: Implications of Alternative Development Pathways under Declining Population in the Noto Peninsula, Japan</title>
+      <link>https://hagachi.github.io/publication/hashimoto-scenario-analysis-landuse-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/hashimoto-scenario-analysis-landuse-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Development of Future Scenario Simulation System of Natural Capital and Ecosystem Services on LANDIS-II ůle1em1ptLinking Qualitative Scenarios and Landscape Change Model in Japanl̊e1em1pt</title>
+      <link>https://hagachi.github.io/publication/haga-development-future-scenario-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-development-future-scenario-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Alternative Futures for the Social-Ecological Production Landscapes of Noto: Implications of Land Use Change on the Provision of Ecosystem Services</title>
+      <link>https://hagachi.github.io/publication/hashimoto-exploring-alternative-futures-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/hashimoto-exploring-alternative-futures-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of Changes in Forest Biomass and Tree Species Composition after Natural Regeneration For Adaptation To Climate Change ůle1em1ptCase Study In Ishikawa Prefecturel̊e1em1pt</title>
+      <link>https://hagachi.github.io/publication/haga-simulation-changes-forest-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-simulation-changes-forest-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>里山での人為的撹乱に伴う植生の遷移と景観の多様性の変化</title>
+      <link>https://hagachi.github.io/publication/fanghe-li-shandeno-ren-wei-de-jiao-luanni-banu-zhi-shengno-qian-yito-jing-guanno-duo-yang-xingno-bian-hua-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/fanghe-li-shandeno-ren-wei-de-jiao-luanni-banu-zhi-shengno-qian-yito-jing-guanno-duo-yang-xingno-bian-hua-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Development of Simulation Process of Landscape Diversity in Satoyama Landscapes for Future Scenario Analysis -Using the LANDIS-II Model and the Modified Satoyama Index-</title>
+      <link>https://hagachi.github.io/publication/haga-development-simulation-process-2016-a/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-development-simulation-process-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Development of Simulation Process of Landscape Diversity in Satoyama Landscape for Future Scenario Assessment —Using the Landis-Ii Model and the Modified Satoyama Index—</title>
+      <link>https://hagachi.github.io/publication/haga-development-simulation-process-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-development-simulation-process-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

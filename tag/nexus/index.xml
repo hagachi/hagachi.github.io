@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nexus | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/tag/nexus/</link>
+      <atom:link href="https://hagachi.github.io/tag/nexus/index.xml" rel="self" type="application/rss+xml" />
+    <description>nexus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Haga, Chihiro</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>nexus</title>
+      <link>https://hagachi.github.io/tag/nexus/</link>
+    </image>
+    
+    <item>
+      <title>Renewable Energy Nexus: Interlinkages with Biodiversity and Social Issues in Japan</title>
+      <link>https://hagachi.github.io/publication/tanaka-renewable-energy-nexus-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/tanaka-renewable-energy-nexus-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nexus between biodiversity and renewable energy</title>
+      <link>https://hagachi.github.io/project/nexus/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/nexus/</guid>
+      <description>&lt;p&gt;This project aims to identify critical interlinkages among social-ecological systems in Japan. We created a spacially high-resolution renewable energy potential map to design sustainable de-carbonization pathways in harmony with nature. Please visit our project site and see our publications!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scenario analysis of Biodiversity and Ecosystem Services</title>
+      <link>https://hagachi.github.io/project/scenario-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/scenario-analysis/</guid>
+      <description>&lt;p&gt;今後日本の森林や農地など陸域生態系は、気候変動の影響を受けつつ、人口減少や再エネ導入など社会からの駆動力で植生が変化することが予想されます。そこで、Forest Landscape Modelを応用し、起こり得る将来シナリオでの植生動態・生態系サービス・野生生物の生息適性の変化をシミュレーションしています。環境・社会・経済の観点から、持続可能な生態系管理の具体化に挑戦しています。&lt;/p&gt;
+&lt;p&gt;研究の対象地域は別寒辺牛川流域、道南地域 (北海道)、奥会津地域 (福島県)、石川県、琵琶湖・淀川流域で、私の学士過程から継続中のメインテーマです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

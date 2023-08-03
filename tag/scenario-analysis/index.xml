@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scenario analysis | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/tag/scenario-analysis/</link>
+      <atom:link href="https://hagachi.github.io/tag/scenario-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>scenario analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Haga, Chihiro</copyright><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>scenario analysis</title>
+      <link>https://hagachi.github.io/tag/scenario-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Modeling desirable futures at local scale by combining the nature futures framework and multi-objective optimization</title>
+      <link>https://hagachi.github.io/publication/haga-modeling-2023/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/haga-modeling-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open online lecture of &#34;Development and application of gravity-based population allocation model&#34;</title>
+      <link>https://hagachi.github.io/talk/open-online-lecture-of-development-and-application-of-gravity-based-population-allocation-model/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/open-online-lecture-of-development-and-application-of-gravity-based-population-allocation-model/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Scenario- and Spatial-Downscaling-Based Land-Use Modeling Framework to Improve the Projections of Plausible Futures: A Case Study of the Guangdong–Hong Kong–Macao Greater Bay Area, China</title>
+      <link>https://hagachi.github.io/publication/shi-scenario-spatialdownscalingbased-landuse-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/publication/shi-scenario-spatialdownscalingbased-landuse-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a Forest Landscape Simulation Model for Assessing Disturbance Impacts on Forest Ecosystems in Shiga Prefecture</title>
+      <link>https://hagachi.github.io/project/shigaism/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/shigaism/</guid>
+      <description>&lt;p&gt;森林生態系は脱炭素化や地域資源利用に向けて地域社会を支える根幹を担う役割が期待されています。そのため気候変動や人間による管理などの自然・人為撹乱によって森林の資源量と質が今後どのように遷移するかを事前に把握することが求められます。そこで本研究課題では、滋賀県を事例として、日本国内の基礎自治体スケールで空間明示的に様々な撹乱に伴う森林の植生動態を将来予測するためのシミュレーションモデルを構築します。具体的には、北米大陸を中心に林業のシナリオ分析のために開発され国内でも利用が進んでいるForest Landscape Model (FLM) を用いて、植生遷移に伴う森林蓄積の頑健な予測モデルの構築を行います。本課題は滋賀県琵琶湖科学研究センターと共同で実施し、滋賀県での事例研究を通じて有用性を評価しつつ、日本国内の他の地域に水平展開するための課題を整理します。研究課題は以下2点です。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;生物多様性データベースと森林資源情報を用いたパラメータ整備とモデル校正・検証&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;地域スケールでの森林植生動態モデリングの信頼性向上や迅速かつスケーラブルな水平展開に資するため、パラメータ収集・校正などモデル運用のベストプラクティスの共有基盤を整備します。過去20年間で急速に発展したFLMの研究では欧米を中心とした研究グループが各自にモデルを整備しており、運用知識の共有に課題がありました。そこで、Ready-to-useな植生遷移モデルを整備するべく、国内外の生物多様性データベースや国内のローカルスケールの林業データを活用したFLMモデルの運用プロトコルを開発します。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;森林植生動態モデリングへの複数の撹乱要因の統合化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;実用的な森林植生動態モデリングのため、不確実性が高く影響が大きい撹乱要因の統合シミュレーション環境を構築します。現在、広葉樹林への誘導などで天然更新に注目が集まっていますが、気候変動下やシカの食害など様々な撹乱により更新が失敗することが問題視されています。これまでの空間明示型のモデリング研究では、個々の撹乱の発生確率や影響評価が行われてきました、地域スケールでの統合が課題です。そこで、日本の林業で重要となる複数の撹乱要因を、基礎自治体スケールを対象として植生動態モデリングに高空間分解能で統合を試みます。&lt;/p&gt;
+&lt;p&gt;Haga C., Kataoka Y., Matsui T., Tsuruta K., Nakagawa K., Kim J., and Kimura M. (PI). Development of a Forest Landscape Simulation Model for Assessing Disturbance Impacts on Forest Ecosystems in Shiga Prefecture, ISM Cooperative Research Program Foundation, Specially Promoted Research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scenario analysis of Biodiversity and Ecosystem Services</title>
+      <link>https://hagachi.github.io/project/scenario-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/scenario-analysis/</guid>
+      <description>&lt;p&gt;今後日本の森林や農地など陸域生態系は、気候変動の影響を受けつつ、人口減少や再エネ導入など社会からの駆動力で植生が変化することが予想されます。そこで、Forest Landscape Modelを応用し、起こり得る将来シナリオでの植生動態・生態系サービス・野生生物の生息適性の変化をシミュレーションしています。環境・社会・経済の観点から、持続可能な生態系管理の具体化に挑戦しています。&lt;/p&gt;
+&lt;p&gt;研究の対象地域は別寒辺牛川流域、道南地域 (北海道)、奥会津地域 (福島県)、石川県、琵琶湖・淀川流域で、私の学士過程から継続中のメインテーマです。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
