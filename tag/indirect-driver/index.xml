@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>indirect driver | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/tag/indirect-driver/</link>
+      <atom:link href="https://hagachi.github.io/tag/indirect-driver/index.xml" rel="self" type="application/rss+xml" />
+    <description>indirect driver</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Haga, Chihiro</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>indirect driver</title>
+      <link>https://hagachi.github.io/tag/indirect-driver/</link>
+    </image>
+    
+    <item>
+      <title>S21-5(2) 里山ランドスケープを対象にした統合評価・シナリオ分析と社会適用</title>
+      <link>https://hagachi.github.io/project/s21-52/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/s21-52/</guid>
+      <description>&lt;p&gt;佐渡市では、人口減少・高齢化による管理放棄林や耕作放棄地の増加に加え、脱炭素を目的とした再エネの導入が計画されています。今後2050年に向かって、脱炭素化することを前提条件とした時に、生物多様性保全や地域の産業振興はどのようになっていくのか？この問いに答えていくプロジェクトです。私はLANDIS-IIモデルの運用担当として参画しています。耕作放棄地の植生遷移のモデル化にも取り組む、挑戦的な課題です。
+関連する研究プロジェクト: S21-5(2) 「里山ランドスケープを対象にした統合評価・シナリオ分析と社会適用（代表: 関島恒夫）」&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated Modeling of Landscape and Socio-Economic Systems Change at Local Scale</title>
+      <link>https://hagachi.github.io/project/scenario-shiga/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/scenario-shiga/</guid>
+      <description>&lt;p&gt;滋賀県では、地域の脱炭素を目指した「滋賀県CO₂ネットゼロ社会づくり推進計画」や、森林の保全・持続可能な利用を目指した「琵琶湖森林づくり基本計画」が個別に策定されています。では、ネットゼロを達成した社会では、どのような森林管理が可能なのか、また、どのような森林管理が求められるのでしょうか？このプロジェクトでは、地域版統合評価モデルと森林景観モデルのオフラインカップリングにより、これらの問いに空間明示に応えられるようなモデルを開発しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planetary Health Diet</title>
+      <link>https://hagachi.github.io/project/foodsystem/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/foodsystem/</guid>
+      <description>&lt;p&gt;フードシステムは、気候変動・生物多様性の両分野にとって重要な間接要因です。このため、近年EAT-Lancetが「Planetary Health Diet」を提唱し、人間にとっても地球にとっても健康な食事法を提案しました。日本国内でも国内のフードシステムの現況を反映したフードガイドの提案などが進められています。そこで本プロジェクトでは、まずは日本国民の食事がPlanetary Health Dietと比較し、日本の食事の問題点・指標の問題点を整理するところから初めています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

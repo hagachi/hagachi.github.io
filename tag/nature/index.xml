@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nature | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/tag/nature/</link>
+      <atom:link href="https://hagachi.github.io/tag/nature/index.xml" rel="self" type="application/rss+xml" />
+    <description>nature</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Haga, Chihiro</copyright><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>nature</title>
+      <link>https://hagachi.github.io/tag/nature/</link>
+    </image>
+    
+    <item>
+      <title>Poster Presentation &#34;Visualizing Conflicts between Terrestrial Biodiversity Conservation &amp; Renewable Energy Potential in Japan&#34;</title>
+      <link>https://hagachi.github.io/talk/poster-presentation-visualizing-conflicts-between-terrestrial-biodiversity-conservation-renewable-energy-potential-in-japan/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/poster-presentation-visualizing-conflicts-between-terrestrial-biodiversity-conservation-renewable-energy-potential-in-japan/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Poster Presentation &#34;Nature Positiveかつ望ましい将来の景観のモデリング - 別寒辺牛川流域でのケーススタディ&#34;</title>
+      <link>https://hagachi.github.io/talk/poster-presentation-nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/poster-presentation-nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acoustic Monitoring for Biodiversity Conservation</title>
+      <link>https://hagachi.github.io/project/acoustic-monitoring/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/acoustic-monitoring/</guid>
+      <description>&lt;p&gt;人間の聴覚を機械で拡張して自然が発する声を聞こう、というコンセプトのプロジェクトです。主に鳥類の地鳴きと囀りを対象に、深層学習技術を用いて種判別をするための技術開発をしています。ランドスケープ・エコロジーの応用で、環境音の情報から生物多様性の評価ができるようになるのが目標です。鳥だけではなく色々な自作の録音デバイスをキャンパス内に設置して、長期間の環境音モニタリングを実施しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oral Presentation &#34;生物多様性を考える&#34;</title>
+      <link>https://hagachi.github.io/talk/oral-presentation-%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A7%98%E6%80%A7%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/oral-presentation-%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A7%98%E6%80%A7%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Oral Presentation &#34;Modelling a landscape using nature futures framework. a case study in japan&#34;</title>
+      <link>https://hagachi.github.io/talk/online-oral-presentation-modelling-a-landscape-using-nature-futures-framework.-a-case-study-in-japan/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/online-oral-presentation-modelling-a-landscape-using-nature-futures-framework.-a-case-study-in-japan/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>S21-5(2) 里山ランドスケープを対象にした統合評価・シナリオ分析と社会適用</title>
+      <link>https://hagachi.github.io/project/s21-52/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/s21-52/</guid>
+      <description>&lt;p&gt;佐渡市では、人口減少・高齢化による管理放棄林や耕作放棄地の増加に加え、脱炭素を目的とした再エネの導入が計画されています。今後2050年に向かって、脱炭素化することを前提条件とした時に、生物多様性保全や地域の産業振興はどのようになっていくのか？この問いに答えていくプロジェクトです。私はLANDIS-IIモデルの運用担当として参画しています。耕作放棄地の植生遷移のモデル化にも取り組む、挑戦的な課題です。
+関連する研究プロジェクト: S21-5(2) 「里山ランドスケープを対象にした統合評価・シナリオ分析と社会適用（代表: 関島恒夫）」&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Poster &#34;地方自治体スケールでの森林動態モデリング&#34;</title>
+      <link>https://hagachi.github.io/talk/online-poster-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%A6%E3%81%AE%E6%A3%AE%E6%9E%97%E5%8B%95%E6%85%8B%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/online-poster-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%A6%E3%81%AE%E6%A3%AE%E6%9E%97%E5%8B%95%E6%85%8B%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated Modeling of Landscape and Socio-Economic Systems Change at Local Scale</title>
+      <link>https://hagachi.github.io/project/scenario-shiga/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/scenario-shiga/</guid>
+      <description>&lt;p&gt;滋賀県では、地域の脱炭素を目指した「滋賀県CO₂ネットゼロ社会づくり推進計画」や、森林の保全・持続可能な利用を目指した「琵琶湖森林づくり基本計画」が個別に策定されています。では、ネットゼロを達成した社会では、どのような森林管理が可能なのか、また、どのような森林管理が求められるのでしょうか？このプロジェクトでは、地域版統合評価モデルと森林景観モデルのオフラインカップリングにより、これらの問いに空間明示に応えられるようなモデルを開発しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planetary Health Diet</title>
+      <link>https://hagachi.github.io/project/foodsystem/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/foodsystem/</guid>
+      <description>&lt;p&gt;フードシステムは、気候変動・生物多様性の両分野にとって重要な間接要因です。このため、近年EAT-Lancetが「Planetary Health Diet」を提唱し、人間にとっても地球にとっても健康な食事法を提案しました。日本国内でも国内のフードシステムの現況を反映したフードガイドの提案などが進められています。そこで本プロジェクトでは、まずは日本国民の食事がPlanetary Health Dietと比較し、日本の食事の問題点・指標の問題点を整理するところから初めています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forest Monitoring using UAV and Machine Learning</title>
+      <link>https://hagachi.github.io/project/forest-monitoring/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/forest-monitoring/</guid>
+      <description>&lt;p&gt;現在の森林資源の現存量は実はよくわかっていません。そこで、ドローンで計測した３次元点群データから、機械学習技術で森林属性情報を取得・識別するための技術開発を行っています。
+民間企業や研究機関と技術連携しつつ、福島県などを対象に研究開発しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>S21-4(3) 気候変動緩和策としての再生可能エネルギー導入と生態系への影響評価</title>
+      <link>https://hagachi.github.io/project/s21-43/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/s21-43/</guid>
+      <description>&lt;p&gt;脱炭素と生物多様性保全は両立するのか？この疑問がこのプロジェクトの出発点です。
+このプロジェクトでは、どのような生態系・土地利用に再エネが設置されてきたのかを明らかにしつつ、今後再エネの導入が期待される場所に対して、生物多様性保全・生態系サービスの持続可能な利用の視点から検討します。S21-4-(3)のテーマであり、エネルギー分野や生物多様性分野の研究者の方たちとの共同研究です。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scenario analysis of Biodiversity and Ecosystem Services</title>
+      <link>https://hagachi.github.io/project/scenario-bekambeushi/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/scenario-bekambeushi/</guid>
+      <description>&lt;p&gt;北海道東部に位置する別寒辺牛川流域でのシナリオ分析の研究です。M1学生の頃からお世話になっている地域です。
+今後起こり得る将来シナリオでの植生動態・生態系サービス・野生生物の生息適性の変化をシミュレーションしています。環境・社会・経済の観点から、持続可能な生態系管理の具体化に挑戦しています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

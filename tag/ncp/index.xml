@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ncp | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/tag/ncp/</link>
+      <atom:link href="https://hagachi.github.io/tag/ncp/index.xml" rel="self" type="application/rss+xml" />
+    <description>ncp</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Haga, Chihiro</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ncp</title>
+      <link>https://hagachi.github.io/tag/ncp/</link>
+    </image>
+    
+    <item>
+      <title>S21-5(2) 里山ランドスケープを対象にした統合評価・シナリオ分析と社会適用</title>
+      <link>https://hagachi.github.io/project/s21-52/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/s21-52/</guid>
+      <description>&lt;p&gt;佐渡市では、人口減少・高齢化による管理放棄林や耕作放棄地の増加に加え、脱炭素を目的とした再エネの導入が計画されています。今後2050年に向かって、脱炭素化することを前提条件とした時に、生物多様性保全や地域の産業振興はどのようになっていくのか？この問いに答えていくプロジェクトです。私はLANDIS-IIモデルの運用担当として参画しています。耕作放棄地の植生遷移のモデル化にも取り組む、挑戦的な課題です。
+関連する研究プロジェクト: S21-5(2) 「里山ランドスケープを対象にした統合評価・シナリオ分析と社会適用（代表: 関島恒夫）」&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated Modeling of Landscape and Socio-Economic Systems Change at Local Scale</title>
+      <link>https://hagachi.github.io/project/scenario-shiga/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/scenario-shiga/</guid>
+      <description>&lt;p&gt;滋賀県では、地域の脱炭素を目指した「滋賀県CO₂ネットゼロ社会づくり推進計画」や、森林の保全・持続可能な利用を目指した「琵琶湖森林づくり基本計画」が個別に策定されています。では、ネットゼロを達成した社会では、どのような森林管理が可能なのか、また、どのような森林管理が求められるのでしょうか？このプロジェクトでは、地域版統合評価モデルと森林景観モデルのオフラインカップリングにより、これらの問いに空間明示に応えられるようなモデルを開発しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scenario analysis of Biodiversity and Ecosystem Services</title>
+      <link>https://hagachi.github.io/project/scenario-bekambeushi/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/scenario-bekambeushi/</guid>
+      <description>&lt;p&gt;北海道東部に位置する別寒辺牛川流域でのシナリオ分析の研究です。M1学生の頃からお世話になっている地域です。
+今後起こり得る将来シナリオでの植生動態・生態系サービス・野生生物の生息適性の変化をシミュレーションしています。環境・社会・経済の観点から、持続可能な生態系管理の具体化に挑戦しています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

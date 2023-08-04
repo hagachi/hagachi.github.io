@@ -1,0 +1,1654 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Haga, Chihiro" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Osaka, Japan" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://hagachi.github.io/project/acoustic-monitoring/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.845bef72a64f3a038906465a95f14377.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://hagachi.github.io/project/acoustic-monitoring/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@@Chihiro_Haga" />
+    <meta property="twitter:creator" content="@@Chihiro_Haga" />
+  
+  <meta property="og:site_name" content="Haga, Chihiro" />
+  <meta property="og:url" content="https://hagachi.github.io/project/acoustic-monitoring/" />
+  <meta property="og:title" content="Acoustic Monitoring for Biodiversity Conservation | Haga, Chihiro" />
+  <meta property="og:description" content="Osaka, Japan" /><meta property="og:image" content="https://hagachi.github.io/project/acoustic-monitoring/featured.jpg" />
+    <meta property="twitter:image" content="https://hagachi.github.io/project/acoustic-monitoring/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2023-05-09T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2023-08-04T11:15:19&#43;09:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hagachi.github.io/project/acoustic-monitoring/"
+  },
+  "headline": "Acoustic Monitoring for Biodiversity Conservation",
+  
+  "image": [
+    "https://hagachi.github.io/project/acoustic-monitoring/featured.jpg"
+  ],
+  
+  "datePublished": "2023-05-09T00:00:00Z",
+  "dateModified": "2023-08-04T11:15:19+09:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Haga, Chihiro"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "GE lab, Osaka University",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Osaka, Japan"
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Acoustic Monitoring for Biodiversity Conservation | Haga, Chihiro</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="5c2e80638c4a1a790d31e1dcb62d6284" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.1d309c6b3f55725f8869af2651084961.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Haga, Chihiro</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Haga, Chihiro</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#skills"><span>Skills</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/uploads/Haga_CV_20230803.pdf"><span>Resume</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Acoustic Monitoring for Biodiversity Conservation</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Aug 4, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 592px; max-height: 555px;">
+  <div style="position: relative">
+    <img src="/project/acoustic-monitoring/featured.jpg" alt="" class="featured-image">
+    <span class="article-header-caption">Photo by Haga</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>人間の聴覚を機械で拡張して自然が発する声を聞こう、というコンセプトのプロジェクトです。主に鳥類の地鳴きと囀りを対象に、深層学習技術を用いて種判別をするための技術開発をしています。ランドスケープ・エコロジーの応用で、環境音の情報から生物多様性の評価ができるようになるのが目標です。鳥だけではなく色々な自作の録音デバイスをキャンパス内に設置して、長期間の環境音モニタリングを実施しています。</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/nature/">nature</a>
+  
+  <a class="badge badge-light" href="/tag/biodiversity/">biodiversity</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://hagachi.github.io/project/acoustic-monitoring/&amp;text=Acoustic%20Monitoring%20for%20Biodiversity%20Conservation" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://hagachi.github.io/project/acoustic-monitoring/&amp;t=Acoustic%20Monitoring%20for%20Biodiversity%20Conservation" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Acoustic%20Monitoring%20for%20Biodiversity%20Conservation&amp;body=https://hagachi.github.io/project/acoustic-monitoring/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://hagachi.github.io/project/acoustic-monitoring/&amp;title=Acoustic%20Monitoring%20for%20Biodiversity%20Conservation" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Acoustic%20Monitoring%20for%20Biodiversity%20Conservation%20https://hagachi.github.io/project/acoustic-monitoring/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://hagachi.github.io/project/acoustic-monitoring/&amp;title=Acoustic%20Monitoring%20for%20Biodiversity%20Conservation" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://hagachi.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu56592fbc40bc1cf52c613116ff3611bd_431414_270x270_fill_q75_lanczos_center.jpeg" alt="Haga, Chihiro"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://hagachi.github.io/">Haga, Chihiro</a></h5>
+      <h6 class="card-subtitle">Specially Appointed Researcher</h6>
+      <p class="card-text">Haga, Chihiro is an ecological engineer conducting a scenario analysis of nexuses between biodiversity and ecosystem services at a local scale.  His research experiences include the application of the process-based forest landscape simulator for social-ecological systems modeling.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/Chihiro_HAGA" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/hagachi" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://researchmap.jp/ChihiroHaga/?lang=en" target="_blank" rel="noopener">
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.jp/citations?user=pi6fiSkAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/talk/poster-presentation-visualizing-conflicts-between-terrestrial-biodiversity-conservation-renewable-energy-potential-in-japan/">Poster Presentation &#34;Visualizing Conflicts between Terrestrial Biodiversity Conservation &amp; Renewable Energy Potential in Japan&#34;</a></li>
+      
+      <li><a href="/talk/poster-presentation-nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3/">Poster Presentation &#34;Nature Positiveかつ望ましい将来の景観のモデリング - 別寒辺牛川流域でのケーススタディ&#34;</a></li>
+      
+      <li><a href="/talk/oral-presentation-%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A7%98%E6%80%A7%E3%82%92%E8%80%83%E3%81%88%E3%82%8B/">Oral Presentation &#34;生物多様性を考える&#34;</a></li>
+      
+      <li><a href="/talk/online-oral-presentation-modelling-a-landscape-using-nature-futures-framework.-a-case-study-in-japan/">Online Oral Presentation &#34;Modelling a landscape using nature futures framework. a case study in japan&#34;</a></li>
+      
+      <li><a href="/talk/online-poster-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%A6%E3%81%AE%E6%A3%AE%E6%9E%97%E5%8B%95%E6%85%8B%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF/">Online Poster &#34;地方自治体スケールでの森林動態モデリング&#34;</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/sato-development-bird-species-2021/" >Development of Bird Species Identifier Using Deep Learning Based on Convolutional Neural Network and Transformer Algorithms</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Takumi Sato</span>, <span >
+      Yuko Maegawa</span>, <span >
+      Chihiro Haga</span>, <span >
+      Takanori Matsui</span>, <span >
+      Takashi Machimura</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/sato-development-bird-species-2021/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/acoustic-monitoring/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/kobayashi-development-species-identification-2021-a/" >Development of a Species Identification System of Japanese Bats from Echolocation Calls Using Convolutional Neural Networks</a>
+    </div>
+
+    
+    <a href="/publication/kobayashi-development-species-identification-2021-a/"  class="summary-link">
+      <div class="article-style">
+        Bats inhabit all continents except Antarctica, and they have enormous potential as bioindicators. Therefore, monitoring bats helps us …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Keigo Kobayashi</span>, <span >
+      Keisuke Masuda</span>, <span >
+      Chihiro Haga</span>, <span >
+      Takanori Matsui</span>, <span >
+      Dai Fukui</span>, <span >
+      Takashi Machimura</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/kobayashi-development-species-identification-2021-a/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/acoustic-monitoring/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.ecoinf.2021.101253" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/maegawa-new-survey-method-2021/" >A New Survey Method Using Convolutional Neural Networks for Automatic Classification of Bird Calls</a>
+    </div>
+
+    
+    <a href="/publication/maegawa-new-survey-method-2021/"  class="summary-link">
+      <div class="article-style">
+        Habitat and reproduction surveys of raptors are common components of environmental impact assessments. Raptors are few in number and …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Yuko Maegawa</span>, <span >
+      Yuji Ushigome</span>, <span >
+      Masato Suzuki</span>, <span >
+      Karen Taguchi</span>, <span >
+      Keigo Kobayashi</span>, <span >
+      Chihiro Haga</span>, <span >
+      Takanori Matsui</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/maegawa-new-survey-method-2021/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/acoustic-monitoring/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.ecoinf.2020.101164" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © 2023 Haga, Chihiro
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.5bb41a68c539a638856544de9689bd9c.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
