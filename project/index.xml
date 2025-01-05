@@ -5,7 +5,7 @@
     <link>https://hagachi.github.io/project/</link>
       <atom:link href="https://hagachi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Haga, Chihiro</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Haga, Chihiro</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:03 +0000</lastBuildDate>
     <image>
       <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,69 +13,90 @@
     </image>
     
     <item>
-      <title>Acoustic Monitoring for Biodiversity Conservation</title>
-      <link>https://hagachi.github.io/project/acoustic-monitoring/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/project/acoustic-monitoring/</guid>
-      <description>&lt;p&gt;人間の聴覚を機械で拡張して自然が発する声を聞こう、というコンセプトのプロジェクトです。主に鳥類の地鳴きと囀りを対象に、深層学習技術を用いて種判別をするための技術開発をしています。ランドスケープ・エコロジーの応用で、環境音の情報から生物多様性の評価ができるようになるのが目標です。鳥だけではなく色々な自作の録音デバイスをキャンパス内に設置して、長期間の環境音モニタリングを実施しています。&lt;/p&gt;
+      <title>PRJ01. Localization and Development of Forest Landscape Model / 日本で使える森林景観モデルの開発</title>
+      <link>https://hagachi.github.io/project/flm/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:03 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/flm/</guid>
+      <description>&lt;p&gt;「もしXXXをしたら100年後の森林・農地・草地はどうなるの？」に答えるために、B4の時から続けている研究テーマです。
+90年代ごろに北米を中心に官学で開発が進められてきたForest Landscape Modelを、日本国内の生物多様性・生態系サービスの将来を考えるために使えるようにしてやろうぜ！というモチベーションの研究です。
+入力データ・パラメータの整備やチューニング方法の確立などの地道な仕事からモデルのコードの改良までを行なっています。
+開発者のRobert Scheller博士との連携のもと、継続的なモデル改良など共同研究や国内コミュニティの形成を推進しています。&lt;/p&gt;
+&lt;p&gt;日本国内で森林生態系の主なプロセスベースのモデルは、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;とある調査プロットの樹木の個体の動態を詳細を計算できる
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://seib-dgvm.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEIB-DGVM: 佐藤先生@JAMSTEC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kobayashiyuta.com/rsearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iLand: 小林先生@東京農工大&lt;/a&gt; などなど&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;とある生態系の物質循環を詳細に計算できる
+&lt;ul&gt;
+&lt;li&gt;Biome-BGC&lt;/li&gt;
+&lt;li&gt;VISIT: 伊藤先生@NIESなどなど&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;のですが、Forest Landscape Model、特に&lt;a href=&#34;https://www.landis-ii.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LANDIS-II model&lt;/a&gt; は、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;樹木の個体ではなくコホートの動態を計算することで、市区町村〜都道府県くらいの空間スケールで50-100m解像度で計算できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;という特徴があります。私の別の研究プロジェクトが対象にしている、地域の生物多様性・生態系サービスのシナリオ分析に使うのにちょうどいいスケールです。&lt;/p&gt;
+&lt;p&gt;この辺の話はこちらの論文が詳しいです。
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s10980-017-0540-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://link.springer.com/article/10.1007/s10980-017-0540-9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;主に環境省S-15や科研A「北方林における気候変動への適応：生態系レジリエンスの保全をめざした生態系管理」(代表: 森本淳子)のご支援を受けました。&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>S21-5(2) 里山ランドスケープを対象にした統合評価・シナリオ分析と社会適用</title>
-      <link>https://hagachi.github.io/project/s21-52/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/project/s21-52/</guid>
-      <description>&lt;p&gt;佐渡市では、人口減少・高齢化による管理放棄林や耕作放棄地の増加に加え、脱炭素を目的とした再エネの導入が計画されています。今後2050年に向かって、脱炭素化することを前提条件とした時に、生物多様性保全や地域の産業振興はどのようになっていくのか？この問いに答えていくプロジェクトです。私はLANDIS-IIモデルの運用担当として参画しています。耕作放棄地の植生遷移のモデル化にも取り組む、挑戦的な課題です。
-関連する研究プロジェクト: S21-5(2) 「里山ランドスケープを対象にした統合評価・シナリオ分析と社会適用（代表: 関島恒夫）」&lt;/p&gt;
+      <title>PRJ02. Development of AI technologies towards human-AI coexistence in biodiversity monitoring / 人間とAIの協働による生物多様性モニタリングに向けたAI要素技術の開発</title>
+      <link>https://hagachi.github.io/project/ai-tech/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:02 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/ai-tech/</guid>
+      <description>&lt;p&gt;私の出身の阪大工学研究科の地球循環共生工学領域の合言葉「contribute to the United Nations SDGs achievement by developing engineering technologies」のノリが色濃く出ているのがこの研究テーマ群です。主に以下の内容に取り組んでいます。&lt;/p&gt;
+&lt;h3 id=&#34;深層学習技術を用いた鳴き声による生物種判別機の開発&#34;&gt;深層学習技術を用いた鳴き声による生物種判別機の開発&lt;/h3&gt;
+&lt;p&gt;聞こえない・見えない生物を認識できるようにするため、深層学習技術により日本のコウモリ30種・鳥類66種の鳴き声を判別する識別器を開発したほか、Cornel大学が開発した大規模鳥類モデルを転移学習して鳥類・昆虫類・両生類など複数の分類群の生物を同時に識別するモデルを開発し高い評価を得ました。この研究は環境音調査・大規模音響データの解析技術の習得、生物音響調査に携わる若手研究者間のネットワーク形成につながりました。&lt;/p&gt;
+&lt;p&gt;最近では阪大の生物多様性モニタリングのために、録音機を設置して連続観測にも挑戦しています。&lt;/p&gt;
+&lt;h3 id=&#34;uavを用いた森林資源モニタリング技術の開発&#34;&gt;UAVを用いた森林資源モニタリング技術の開発&lt;/h3&gt;
+&lt;p&gt;現在の森林資源の現存量は実はよくわかっていません。そこで、ドローンで計測した３次元点群データから、機械学習技術で森林属性情報を取得・識別するための技術開発を行っています。民間企業や研究機関と技術連携しつつ、福島県などを対象に研究開発しています。&lt;/p&gt;
+&lt;h3 id=&#34;ai要素技術の実装支援&#34;&gt;AI要素技術の実装支援&lt;/h3&gt;
+&lt;p&gt;2010年代から現在にかけて様々な画像識別技術の応用をしてきましたが、やはり個別のラボでは大資本には勝てないなあということを痛感させられました (&lt;a href=&#34;https://birdnet.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornel大のBirdNET&lt;/a&gt;とか&lt;a href=&#34;https://github.com/google-research/perch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoogleのPerch&lt;/a&gt;とか&lt;a href=&#34;https://news.microsoft.com/ja-jp/2024/12/24/241224-announcing-sparrow-a-breakthrough-ai-tool-to-measure-and-protect-earths-biodiversity-in-the-most-remote-places/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MicrosoftのSPARROW&lt;/a&gt;とか)。とはいえまだまだAIの要素技術と人間が協働して保全を行う世界にはまだ辿り着いていません。最近は大資本は手を出さないニッチなテーマだけど重要な技術の開発をしたり、開発した技術を身近な自然環境に持ち込んで試行錯誤しています。&lt;/p&gt;
+&lt;h3 id=&#34;その他&#34;&gt;その他&lt;/h3&gt;
+&lt;p&gt;自然言語処理技術を地理空間情報分析に応用したり、聴覚情報の可視化技術を開発したり、といった研究も行っています。ネタが溜まってきたら、こちらのページに追加していきます。&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Integrated Modeling of Landscape and Socio-Economic Systems Change at Local Scale</title>
-      <link>https://hagachi.github.io/project/scenario-shiga/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/project/scenario-shiga/</guid>
-      <description>&lt;p&gt;滋賀県では、地域の脱炭素を目指した「滋賀県CO₂ネットゼロ社会づくり推進計画」や、森林の保全・持続可能な利用を目指した「琵琶湖森林づくり基本計画」が個別に策定されています。では、ネットゼロを達成した社会では、どのような森林管理が可能なのか、また、どのような森林管理が求められるのでしょうか？このプロジェクトでは、地域版統合評価モデルと森林景観モデルのオフラインカップリングにより、これらの問いに空間明示に応えられるようなモデルを開発しています。&lt;/p&gt;
+      <title>PRJ03. Scenario analysis of Biodiversity and Ecosystem Services at Local Scale / 生物多様性・生態系サービスの地域シナリオ分析</title>
+      <link>https://hagachi.github.io/project/scenario-analysis/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:01 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/scenario-analysis/</guid>
+      <description>&lt;p&gt;生物多様性・生態系サービスのシナリオ分析に関連する研究テーマで、私がB4学生の頃から取り組んでいる重点課題です。&lt;/p&gt;
+&lt;p&gt;2050年や2100年の社会の将来シナリオのもとで、植生動態・生態系サービス・野生生物の生息適性の変化をシミュレーションしています。
+トップダウンにシナリオを示すこともあれば、ボトムアップで地域のステークホルダーと共にシナリオを作成することもあります。&lt;/p&gt;
+&lt;p&gt;対象地域は主に、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;北海道東部に位置する別寒辺牛川流域 (&lt;a href=&#34;https://www.nies.go.jp/pances/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;環境省推進費S15 PANCESプロジェクト&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;北海道道南の国有林 (&lt;a href=&#34;https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17H01516/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;基盤A北方林科研プロジェクト&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;福島県奥会津地域 (国立環境研究所福島支部との共同プロジェクト)&lt;/li&gt;
+&lt;li&gt;新潟県佐渡市 (&lt;a href=&#34;https://iam-b.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;環境省推進費S21 aim-bプロジェクト&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;滋賀県 (&lt;a href=&#34;https://www.lberi.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;滋賀県琵琶湖環境科学研究センター&lt;/a&gt;との共同プロジェクト)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;です。地域の行政の方やステークホルダーの方との連携を重視しています。&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Planetary Health Diet</title>
-      <link>https://hagachi.github.io/project/foodsystem/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/project/foodsystem/</guid>
-      <description>&lt;p&gt;フードシステムは、気候変動・生物多様性の両分野にとって重要な間接要因です。このため、近年EAT-Lancetが「Planetary Health Diet」を提唱し、人間にとっても地球にとっても健康な食事法を提案しました。日本国内でも国内のフードシステムの現況を反映したフードガイドの提案などが進められています。そこで本プロジェクトでは、まずは日本国民の食事がPlanetary Health Dietと比較し、日本の食事の問題点・指標の問題点を整理するところから初めています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Forest Monitoring using UAV and Machine Learning</title>
-      <link>https://hagachi.github.io/project/forest-monitoring/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/project/forest-monitoring/</guid>
-      <description>&lt;p&gt;現在の森林資源の現存量は実はよくわかっていません。そこで、ドローンで計測した３次元点群データから、機械学習技術で森林属性情報を取得・識別するための技術開発を行っています。
-民間企業や研究機関と技術連携しつつ、福島県などを対象に研究開発しています。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>S21-4(3) 気候変動緩和策としての再生可能エネルギー導入と生態系への影響評価</title>
-      <link>https://hagachi.github.io/project/s21-43/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/project/s21-43/</guid>
-      <description>&lt;p&gt;脱炭素と生物多様性保全は両立するのか？この疑問がこのプロジェクトの出発点です。
-このプロジェクトでは、どのような生態系・土地利用に再エネが設置されてきたのかを明らかにしつつ、今後再エネの導入が期待される場所に対して、生物多様性保全・生態系サービスの持続可能な利用の視点から検討します。S21-4-(3)のテーマであり、エネルギー分野や生物多様性分野の研究者の方たちとの共同研究です。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scenario analysis of Biodiversity and Ecosystem Services</title>
-      <link>https://hagachi.github.io/project/scenario-bekambeushi/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/project/scenario-bekambeushi/</guid>
-      <description>&lt;p&gt;北海道東部に位置する別寒辺牛川流域でのシナリオ分析の研究です。M1学生の頃からお世話になっている地域です。
-今後起こり得る将来シナリオでの植生動態・生態系サービス・野生生物の生息適性の変化をシミュレーションしています。環境・社会・経済の観点から、持続可能な生態系管理の具体化に挑戦しています。&lt;/p&gt;
+      <title>PRJ04. Fundamental research for just transition towards sustainable social-ecological systems / 持続可能な社会・生態システムへの公正な移行のための基盤研究</title>
+      <link>https://hagachi.github.io/project/just-transition/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/project/just-transition/</guid>
+      <description>&lt;p&gt;SDGsのGoal間の相互作用・ネクサスを踏まえて、持続可能な自然共生社会に公正に移行するための課題に焦点をあてる内容が多いです。
+他の研究テーマと比べて、様々な主体との対話の中で生まれる着想を重視し、学生と新たな分野に飛び込むことを最重視している研究課題です。
+以下のテーマの他にも、学生とともに環境正義やジェンダーと環境の関係などにも取り組んでいます。&lt;/p&gt;
+&lt;h4 id=&#34;自然社会と再エネのネクサス&#34;&gt;自然・社会と再エネのネクサス&lt;/h4&gt;
+&lt;p&gt;持続可能な社会・生態システムには適正な再エネが必要です。エネルギー政策 (Goal 7,13) が参照される再エネポテンシャルデータと、鳥類の保全 (Goal 15) や都市部のエネルギー貧困問題 (Goal 1,5,11) とのトレードオフを特定し、公正な移行には経済コストとは別の視点が必要であることを示しました。&lt;/p&gt;
+&lt;h4 id=&#34;日本の食事は地球にとって健康な食事か&#34;&gt;日本の食事は「地球にとって健康な食事」か？&lt;/h4&gt;
+&lt;p&gt;栄養学の専門家との共同研究で、EAT-Lancetが提案した地球にとって健康な食事法と日本の食事摂取量や食料供給量を比較し、環境学・栄養学の立場から、日本のフードシステム、特に食事法の変革の方針を提案し、生産・流通・廃棄の視点からの課題・注意点を明らかにしようとしています。&lt;/p&gt;
 </description>
     </item>
     

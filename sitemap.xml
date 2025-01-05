@@ -2,14 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hagachi.github.io/</loc>
+    <lastmod>2025-01-01T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/project/flm/</loc>
+    <lastmod>2025-01-01T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/project/</loc>
+    <lastmod>2025-01-01T00:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/project/ai-tech/</loc>
+    <lastmod>2025-01-01T00:00:02+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/project/scenario-analysis/</loc>
+    <lastmod>2025-01-01T00:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/project/just-transition/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/publication-type/2/</loc>
+    <lastmod>2024-12-30T15:39:40+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/publication_types/</loc>
+    <lastmod>2024-12-30T15:40:46+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/publication/morimoto-current-2024/</loc>
+    <lastmod>2024-12-30T15:39:40+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/talk/a-landscape-aware-spatial-representation-learning-for-understanding-plural-values-of-nature-poster/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/tag/gis/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/tag/machine-learning/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/tag/national-language-processing/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/tag/spatial-representation-learning/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/tags/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/publication/shi-scenario-based-2024/</loc>
+    <lastmod>2024-12-30T15:39:40+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/tag/capacity-building/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/tag/youth/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/talk/%E7%92%B0%E5%A2%83%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%8B%A5%E6%89%8B%E7%A0%94%E7%A9%B6%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-2024/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/publication/qian-estimation-2024/</loc>
+    <lastmod>2024-12-30T15:39:40+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/publication-type/0/</loc>
+    <lastmod>2024-12-30T15:40:46+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/publication/matsui-psb-47-2024/</loc>
+    <lastmod>2024-12-30T15:40:46+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/publication/kawase-study-2024/</loc>
+    <lastmod>2024-12-30T15:39:40+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/publication/haga-solarpv-validation-2024/</loc>
+    <lastmod>2024-12-30T15:40:45+09:00</lastmod>
+  </url><url>
     <loc>https://hagachi.github.io/tag/biodiversity/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/tag/direct-driver/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/</loc>
-    <lastmod>2024-04-18T11:26:04+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/tag/landis-ii/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
@@ -17,22 +86,16 @@
     <loc>https://hagachi.github.io/tag/nature/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/talk/poster-presentation-visualizing-conflicts-between-terrestrial-biodiversity-conservation-renewable-energy-potential-in-japan/</loc>
+    <loc>https://hagachi.github.io/talk/visualizing-conflicts-between-terrestrial-biodiversity-conservation-renewable-energy-potential-in-japan-poster/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/tags/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
+    <loc>https://hagachi.github.io/publication/gunawan-land-2023/</loc>
+    <lastmod>2024-12-30T15:39:40+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/talk/poster-presentation-nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
+    <loc>https://hagachi.github.io/publication/hotta-leaving-2023/</loc>
+    <lastmod>2024-12-30T15:39:31+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/project/acoustic-monitoring/</loc>
-    <lastmod>2023-08-04T11:15:19+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/project/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication-type/2/</loc>
+    <loc>https://hagachi.github.io/talk/nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3-poster/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/tag/agriculture/</loc>
@@ -50,9 +113,6 @@
     <loc>https://hagachi.github.io/tag/nature-positive/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/publication_types/</loc>
-    <lastmod>2023-08-08T16:40:30+09:00</lastmod>
-  </url><url>
     <loc>https://hagachi.github.io/tag/scenario-analysis/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
@@ -62,6 +122,9 @@
     <loc>https://hagachi.github.io/publication/kobayashi-dominant-2023/</loc>
     <lastmod>2023-08-03T17:53:16+09:00</lastmod>
   </url><url>
+    <loc>https://hagachi.github.io/publication/satotakumi-2023/</loc>
+    <lastmod>2024-12-30T15:40:45+09:00</lastmod>
+  </url><url>
     <loc>https://hagachi.github.io/publication/haga-modeling-tree-recovery-2022/</loc>
     <lastmod>2022-11-10T16:45:49+09:00</lastmod>
   </url><url>
@@ -69,12 +132,6 @@
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/talk/online-oral-presentation-modelling-a-landscape-using-nature-futures-framework.-a-case-study-in-japan/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication-type/1/</loc>
-    <lastmod>2023-08-08T16:40:30+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/haga-modelling-landscape-using-2022/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/tag/decision-support/</loc>
@@ -92,19 +149,10 @@
     <loc>https://hagachi.github.io/tag/renewable-energy-map/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/tag/indirect-driver/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/tag/ncp/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
     <loc>https://hagachi.github.io/tag/nexus/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/publication/tanaka-renewable-energy-nexus-2022/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/project/s21-52/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/talk/online-poster-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%A6%E3%81%AE%E6%A3%AE%E6%9E%97%E5%8B%95%E6%85%8B%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF/</loc>
@@ -191,13 +239,13 @@
     <loc>https://hagachi.github.io/tag/%E8%87%AA%E7%84%B6%E3%82%92%E5%9F%BA%E7%9B%A4%E3%81%A8%E3%81%99%E3%82%8B%E8%A7%A3%E6%B1%BA%E7%AD%96/</loc>
     <lastmod>2022-01-16T15:40:08+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/publication/nakahira-input-output-analysis-japanese-2021/</loc>
-    <lastmod>2022-01-16T15:40:08+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/zhou-biodiversity-mainstreaming-international-2021/</loc>
+    <loc>https://hagachi.github.io/categories/</loc>
     <lastmod>2022-01-16T15:40:08+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/publication/kim-evaluation-energy-utilization-2021/</loc>
+    <lastmod>2022-01-16T15:40:08+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/category/flm/</loc>
     <lastmod>2022-01-16T15:40:08+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/publication/hotta-longterm-cumulative-impacts-2021/</loc>
@@ -206,20 +254,11 @@
     <loc>https://hagachi.github.io/publication/yuta-modeling-synergies-trade-offs-2021/</loc>
     <lastmod>2022-01-16T15:40:08+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/publication/haga-predicting-assessing-natural-2021/</loc>
+    <loc>https://hagachi.github.io/category/scenario-analysis/</loc>
     <lastmod>2022-01-16T15:40:08+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/zhaiteng-wei-xing-hua-xiangwo-yongita-diemi-ipminiyurarunetutowakuniyoru-jian-wu-yan-chuang-mian-ji-tui-jini-guansuru-yan-jiu-2021/</loc>
-    <lastmod>2022-01-16T15:40:08+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication-type/0/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/publication/sato-development-bird-species-2021/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/haga-scenario-analysis-nexuses-2021/</loc>
-    <lastmod>2022-01-16T15:40:08+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/talk/oral-presentation-nexuses-between-socio-ecological-systems-and-renewable-energy-using-renewable-energy-potential-maps/</loc>
     <lastmod>2021-09-20T11:44:53+09:00</lastmod>
@@ -233,29 +272,14 @@
     <loc>https://hagachi.github.io/talk/open-online-lecture-of-development-and-application-of-gravity-based-population-allocation-model/</loc>
     <lastmod>2021-09-04T23:56:05+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/publication/fanghe-she-hui-sheng-taisisutemudeno-zai-sheng-ke-nengeneruginekusasuno-fen-xi-dao-rupotensiyaruno-gao-kong-jian-jie-xiang-du-huapuroguramuno-gong-kai-2021/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
     <loc>https://hagachi.github.io/publication/oda-errors-uncertainties-associated-2021/</loc>
     <lastmod>2021-08-07T11:38:46+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/tianzhong-zai-sheng-ke-nengenerugipotensiyaru-kong-jian-ming-shimatupuno-kai-fato-ying-yong-2021/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/talk/short-talk-at-public-online-symposium-of-ecological-society-of-japan-mainstreaming-renewable-energy-in-decade-of-action-requires-ecologists/</loc>
     <lastmod>2021-07-26T19:40:12+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/publication/shi-scenario-spatialdownscalingbased-landuse-2021/</loc>
     <lastmod>2021-07-28T09:55:28+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/project/scenario-shiga/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/haga-mainstreaming-renewable-energy-2021/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/project/foodsystem/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/tag/shared-socioeconomic-pathway/</loc>
     <lastmod>2021-07-28T09:55:28+09:00</lastmod>
@@ -302,9 +326,6 @@
     <loc>https://hagachi.github.io/publication/maegawa-new-survey-method-2021/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/publication/haga-adaptation-windthrow-conservation-2021/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
     <loc>https://hagachi.github.io/tag/climate-change/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
@@ -329,9 +350,6 @@
     <loc>https://hagachi.github.io/tag/academic/</loc>
     <lastmod>2021-07-04T17:09:54+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/categories/</loc>
-    <lastmod>2021-07-04T17:09:54+09:00</lastmod>
-  </url><url>
     <loc>https://hagachi.github.io/category/demo/</loc>
     <lastmod>2021-07-04T17:09:54+09:00</lastmod>
   </url><url>
@@ -344,40 +362,7 @@
     <loc>https://hagachi.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2021-07-04T17:09:54+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/publication/miyamoto-demand-supply-gap-analysis-2020/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/fukumori-development-visualization-method-2020/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/fanghe-sheng-wu-duo-yang-xing-bao-quanto-zai-sheng-ke-nengenerugino-dao-ruha-liang-li-ke-nengka-bie-han-bian-niu-chuan-liu-yuwo-dui-xiangtosite-2020/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/namba-future-prediction-biomass-2020/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
     <loc>https://hagachi.github.io/tag/deep-learning/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/tag/environmental-sound-classification/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/tag/sdgs/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/tag/%E3%82%A8%E3%82%B3%E3%83%BC%E3%83%AD%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/tag/%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/tag/%E7%92%B0%E5%A2%83%E9%9F%B3%E8%AD%98%E5%88%A5/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/xiaolin-sd-gsno-mu-biao-da-chengni-xiangketa-huan-jing-yin-shi-bie-ji-shuno-kai-fa-shen-ceng-xue-xiwo-yongita-ri-ben-chankoumori-30-zhongno-zhong-pan-biesisutemuno-gou-zhu-2020/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/haga-what-landisii-2020/</loc>
     <lastmod>2021-09-07T12:38:55+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/tag/dual-residence/</loc>
@@ -416,6 +401,12 @@
     <loc>https://hagachi.github.io/tag/woody-biomass-energy/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
+    <loc>https://hagachi.github.io/publication-type/1/</loc>
+    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
+  </url><url>
+    <loc>https://hagachi.github.io/category/ai-tech/</loc>
+    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
+  </url><url>
     <loc>https://hagachi.github.io/publication/haga-scenario-analysis-renewable-2020-e/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
@@ -440,47 +431,14 @@
     <loc>https://hagachi.github.io/publication/fujimoto-end-end-process-2019-b/</loc>
     <lastmod>2021-07-28T09:55:28+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/publication/haga-are-there-potential-2019/</loc>
-    <lastmod>2023-08-08T16:40:30+09:00</lastmod>
-  </url><url>
     <loc>https://hagachi.github.io/publication/haga-simulation-natural-capital-2019-h/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/publication/matsui-spatially-explicit-residential-2019-b/</loc>
     <lastmod>2021-07-28T09:55:28+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/publication/inoue-combined-effects-future-2018/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/haga-scenario-analysis-landscape-2018/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
     <loc>https://hagachi.github.io/publication/hashimoto-scenario-analysis-landuse-2018/</loc>
     <lastmod>2021-07-28T09:55:28+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/haga-development-future-scenario-2017/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/hashimoto-exploring-alternative-futures-2017/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/haga-simulation-changes-forest-2017/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/fanghe-li-shandeno-ren-wei-de-jiao-luanni-banu-zhi-shengno-qian-yito-jing-guanno-duo-yang-xingno-bian-hua-2016/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/publication/haga-development-simulation-process-2016-a/</loc>
-    <lastmod>2021-09-07T12:38:55+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/project/forest-monitoring/</loc>
-    <lastmod>2023-08-04T11:15:19+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/project/s21-43/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
-  </url><url>
-    <loc>https://hagachi.github.io/project/scenario-bekambeushi/</loc>
-    <lastmod>2023-08-04T12:25:23+09:00</lastmod>
   </url><url>
     <loc>https://hagachi.github.io/tag/abandoned-farmland/</loc>
     <lastmod>2023-08-04T12:25:23+09:00</lastmod>
@@ -500,10 +458,10 @@
     <loc>https://hagachi.github.io/post/</loc>
     <lastmod>2021-07-04T17:09:54+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/publication/</loc>
+    <loc>https://hagachi.github.io/event/</loc>
     <lastmod>2021-07-04T17:09:54+09:00</lastmod>
   </url><url>
-    <loc>https://hagachi.github.io/event/</loc>
+    <loc>https://hagachi.github.io/publication/</loc>
     <lastmod>2021-07-04T17:09:54+09:00</lastmod>
   </url>
 </urlset>

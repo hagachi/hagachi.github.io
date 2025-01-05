@@ -1,0 +1,2891 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Haga, Chihiro" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="生態学分野のシミュレーション屋としての研究課題" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://hagachi.github.io/project/flm/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.845bef72a64f3a038906465a95f14377.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://hagachi.github.io/project/flm/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@@Chihiro_Haga" />
+    <meta property="twitter:creator" content="@@Chihiro_Haga" />
+  
+  <meta property="og:site_name" content="Haga, Chihiro" />
+  <meta property="og:url" content="https://hagachi.github.io/project/flm/" />
+  <meta property="og:title" content="PRJ01. Localization and Development of Forest Landscape Model / 日本で使える森林景観モデルの開発 | Haga, Chihiro" />
+  <meta property="og:description" content="生態学分野のシミュレーション屋としての研究課題" /><meta property="og:image" content="https://hagachi.github.io/project/flm/featured.png" />
+    <meta property="twitter:image" content="https://hagachi.github.io/project/flm/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2025-01-01T00:00:03&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2025-01-01T00:00:03&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hagachi.github.io/project/flm/"
+  },
+  "headline": "PRJ01. Localization and Development of Forest Landscape Model / 日本で使える森林景観モデルの開発",
+  
+  "image": [
+    "https://hagachi.github.io/project/flm/featured.png"
+  ],
+  
+  "datePublished": "2025-01-01T00:00:03Z",
+  "dateModified": "2025-01-01T00:00:03Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Haga, Chihiro"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "GE lab, Osaka University",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "生態学分野のシミュレーション屋としての研究課題"
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>PRJ01. Localization and Development of Forest Landscape Model / 日本で使える森林景観モデルの開発 | Haga, Chihiro</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="2e965984bcdb1a7d1b6f2c586d5c7016" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.1d309c6b3f55725f8869af2651084961.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Haga, Chihiro</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Haga, Chihiro</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#skills"><span>Skills</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>PRJ01. Localization and Development of Forest Landscape Model / 日本で使える森林景観モデルの開発</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 408px;">
+  <div style="position: relative">
+    <img src="/project/flm/featured_hue1f503ac805c93ca9b57fd8e8856537c_928352_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <span class="article-header-caption">Photo by Haga</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>「もしXXXをしたら100年後の森林・農地・草地はどうなるの？」に答えるために、B4の時から続けている研究テーマです。
+90年代ごろに北米を中心に官学で開発が進められてきたForest Landscape Modelを、日本国内の生物多様性・生態系サービスの将来を考えるために使えるようにしてやろうぜ！というモチベーションの研究です。
+入力データ・パラメータの整備やチューニング方法の確立などの地道な仕事からモデルのコードの改良までを行なっています。
+開発者のRobert Scheller博士との連携のもと、継続的なモデル改良など共同研究や国内コミュニティの形成を推進しています。</p>
+<p>日本国内で森林生態系の主なプロセスベースのモデルは、</p>
+<ul>
+<li>とある調査プロットの樹木の個体の動態を詳細を計算できる
+<ul>
+<li><a href="https://seib-dgvm.com/en/" target="_blank" rel="noopener">SEIB-DGVM: 佐藤先生@JAMSTEC</a></li>
+<li><a href="https://www.kobayashiyuta.com/rsearch" target="_blank" rel="noopener">iLand: 小林先生@東京農工大</a> などなど</li>
+</ul>
+</li>
+<li>とある生態系の物質循環を詳細に計算できる
+<ul>
+<li>Biome-BGC</li>
+<li>VISIT: 伊藤先生@NIESなどなど</li>
+</ul>
+</li>
+</ul>
+<p>のですが、Forest Landscape Model、特に<a href="https://www.landis-ii.org/" target="_blank" rel="noopener">LANDIS-II model</a> は、</p>
+<ul>
+<li>樹木の個体ではなくコホートの動態を計算することで、市区町村〜都道府県くらいの空間スケールで50-100m解像度で計算できる</li>
+</ul>
+<p>という特徴があります。私の別の研究プロジェクトが対象にしている、地域の生物多様性・生態系サービスのシナリオ分析に使うのにちょうどいいスケールです。</p>
+<p>この辺の話はこちらの論文が詳しいです。
+<a href="https://link.springer.com/article/10.1007/s10980-017-0540-9" target="_blank" rel="noopener">https://link.springer.com/article/10.1007/s10980-017-0540-9</a></p>
+<p>主に環境省S-15や科研A「北方林における気候変動への適応：生態系レジリエンスの保全をめざした生態系管理」(代表: 森本淳子)のご支援を受けました。</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://hagachi.github.io/project/flm/&amp;text=PRJ01.%20Localization%20and%20Development%20of%20Forest%20Landscape%20Model%20/%20%e6%97%a5%e6%9c%ac%e3%81%a7%e4%bd%bf%e3%81%88%e3%82%8b%e6%a3%ae%e6%9e%97%e6%99%af%e8%a6%b3%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e9%96%8b%e7%99%ba" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://hagachi.github.io/project/flm/&amp;t=PRJ01.%20Localization%20and%20Development%20of%20Forest%20Landscape%20Model%20/%20%e6%97%a5%e6%9c%ac%e3%81%a7%e4%bd%bf%e3%81%88%e3%82%8b%e6%a3%ae%e6%9e%97%e6%99%af%e8%a6%b3%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e9%96%8b%e7%99%ba" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=PRJ01.%20Localization%20and%20Development%20of%20Forest%20Landscape%20Model%20/%20%e6%97%a5%e6%9c%ac%e3%81%a7%e4%bd%bf%e3%81%88%e3%82%8b%e6%a3%ae%e6%9e%97%e6%99%af%e8%a6%b3%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e9%96%8b%e7%99%ba&amp;body=https://hagachi.github.io/project/flm/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://hagachi.github.io/project/flm/&amp;title=PRJ01.%20Localization%20and%20Development%20of%20Forest%20Landscape%20Model%20/%20%e6%97%a5%e6%9c%ac%e3%81%a7%e4%bd%bf%e3%81%88%e3%82%8b%e6%a3%ae%e6%9e%97%e6%99%af%e8%a6%b3%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e9%96%8b%e7%99%ba" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=PRJ01.%20Localization%20and%20Development%20of%20Forest%20Landscape%20Model%20/%20%e6%97%a5%e6%9c%ac%e3%81%a7%e4%bd%bf%e3%81%88%e3%82%8b%e6%a3%ae%e6%9e%97%e6%99%af%e8%a6%b3%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e9%96%8b%e7%99%ba%20https://hagachi.github.io/project/flm/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://hagachi.github.io/project/flm/&amp;title=PRJ01.%20Localization%20and%20Development%20of%20Forest%20Landscape%20Model%20/%20%e6%97%a5%e6%9c%ac%e3%81%a7%e4%bd%bf%e3%81%88%e3%82%8b%e6%a3%ae%e6%9e%97%e6%99%af%e8%a6%b3%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e9%96%8b%e7%99%ba" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://hagachi.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu56592fbc40bc1cf52c613116ff3611bd_431414_270x270_fill_q75_lanczos_center.jpeg" alt="Haga, Chihiro"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://hagachi.github.io/">Haga, Chihiro</a></h5>
+      <h6 class="card-subtitle">Specially Appointed Assistant Professor</h6>
+      <p class="card-text">Haga, Chihiro is an landscape ecologist conducting a scenario analysis of nexuses between biodiversity and ecosystem services at a local scale.  His research experiences include the application of the process-based forest landscape simulator for social-ecological systems modeling.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/hagachi" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://researchmap.jp/ChihiroHaga/?lang=en" target="_blank" rel="noopener">
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.jp/citations?user=pi6fiSkAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/Chihiro_HAGA" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/hotta-leaving-2023/" >Leaving disturbance legacies conserves boreal conifers and maximizes net CO2 absorption under climate change and more frequent and larger windthrow regimes</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Wataru Hotta</span>, <span >
+      Chihiro Haga</span>, <span >
+      Junko Morimoto</span>, <span >
+      Satoshi N. Suzuki</span>, <span >
+      Takanori Matsui</span>, <span >
+      Toshiaki Owari</span>, <span >
+      Hideaki Shibata</span>, <span >
+      Futoshi Nakamura</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/hotta-leaving-2023/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s10980-023-01680-4" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://link.springer.com/10.1007/s10980-023-01680-4" target="_blank" rel="noopener">
+    
+    URL
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/haga-modeling-2023/" >Modeling desirable futures at local scale by combining the nature futures framework and multi-objective optimization</a>
+    </div>
+
+    
+    <a href="/publication/haga-modeling-2023/"  class="summary-link">
+      <div class="article-style">
+        Envisioning positive scenarios that recognize the multiple values of nature is fundamental for designing transformative changes in …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Chihiro Haga</span>, <span >
+      Marimi Maeda</span>, <span >
+      Wataru Hotta</span>, <span >
+      Takanori Matsui</span>, <span >
+      Masahiro Nakaoka</span>, <span >
+      Junko Morimoto</span>, <span >
+      Hideaki Shibata</span>, <span >
+      Shizuka Hashimoto</span>, <span >
+      Osamu Saito</span>, <span >
+      Sana Okayasu</span>, <span >
+      HyeJin Kim</span>, <span >
+      Garry Peterson</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/haga-modeling-2023/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s11625-023-01301-8" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s11625-023-01301-8" target="_blank" rel="noopener">
+    
+    URL
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/haga-modeling-2023/" >
+      <img src="/publication/haga-modeling-2023/featured_hu00003588c9e5671d60ed315394ae12dd_1484156_150x0_resize_lanczos_3.png" alt="Modeling desirable futures at local scale by combining the nature futures framework and multi-objective optimization" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/kobayashi-dominant-2023/" >Dominant temperate and subalpine Japanese trees have variable photosynthetic thermal optima according to site mean annual temperature</a>
+    </div>
+
+    
+    <a href="/publication/kobayashi-dominant-2023/"  class="summary-link">
+      <div class="article-style">
+        Aim: Global flux data analyses have shown a significant positive and linear relationship between site-­scale photosynthetic optimum …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Yuta Kobayashi</span>, <span >
+      Chihiro Haga</span>, <span >
+      Naoto Shinohara</span>, <span >
+      Keita Nishizawa</span>, <span >
+      Akira S. Mori</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/kobayashi-dominant-2023/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/geb.13636" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/10.1111/geb.13636" target="_blank" rel="noopener">
+    
+    URL
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/haga-modeling-tree-recovery-2022/" >Modeling Tree Recovery in Wind-Disturbed Forests with Dense Understory Species under Climate Change</a>
+    </div>
+
+    
+    <a href="/publication/haga-modeling-tree-recovery-2022/"  class="summary-link">
+      <div class="article-style">
+        Future climate conditions will alter the frequency and intensity of typhoons. Thus, post-windthrow management, which can enhance tree …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Chihiro Haga</span>, <span >
+      Wataru Hotta</span>, <span >
+      Takahiro Inoue</span>, <span >
+      Takanori Matsui</span>, <span >
+      Masahiro Aiba</span>, <span >
+      Toshiaki Owari</span>, <span >
+      Satoshi N. Suzuki</span>, <span >
+      Hideaki Shibata</span>, <span >
+      Junko Morimoto</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/haga-modeling-tree-recovery-2022/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.ecolmodel.2022.110072" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/hotta-longterm-cumulative-impacts-2021/" >Long-Term Cumulative Impacts of Windthrow and Subsequent Management on Tree Species Composition and Aboveground Biomass: A Simulation Study Considering Regeneration on Downed Logs</a>
+    </div>
+
+    
+    <a href="/publication/hotta-longterm-cumulative-impacts-2021/"  class="summary-link">
+      <div class="article-style">
+        Post-windthrow management delays forest biomass recovery by altering the situation of disturbance legacies and can change the species …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Wataru Hotta</span>, <span >
+      Junko Morimoto</span>, <span >
+      Chihiro Haga</span>, <span >
+      Satoshi N. Suzuki</span>, <span >
+      Takahiro Inoue</span>, <span >
+      Takanori Matsui</span>, <span >
+      Toshiaki Owari</span>, <span >
+      Hideaki Shibata</span>, <span >
+      Futoshi Nakamura</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/hotta-longterm-cumulative-impacts-2021/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.foreco.2021.119728" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/haga-scenario-analysis-renewable-2020-e/" >Scenario Analysis of Renewable Energy–Biodiversity Nexuses Using a Forest Landscape Model</a>
+    </div>
+
+    
+    <a href="/publication/haga-scenario-analysis-renewable-2020-e/"  class="summary-link">
+      <div class="article-style">
+        The introduction of renewable energy (RE) in harmony with nature is essential for building a sustainable society. However, the poorly …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Chihiro Haga</span>, <span >
+      Marimi Maeda</span>, <span >
+      Wataru Hotta</span>, <span >
+      Takahiro Inoue</span>, <span >
+      Takanori Matsui</span>, <span >
+      Takashi Machimura</span>, <span >
+      Masahiro Nakaoka</span>, <span >
+      Junko Morimoto</span>, <span >
+      Hideaki Shibata</span>, <span >
+      Shizuka Hashimoto</span>, <span >
+      Osamu Saito</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/haga-scenario-analysis-renewable-2020-e/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fevo.2020.00155" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/haga-scenario-analysis-renewable-2020-e/" >
+      <img src="/publication/haga-scenario-analysis-renewable-2020-e/featured_huacd8c305f84a9f42f1033dd74b493799_121605_150x0_resize_lanczos_3.png" alt="Scenario Analysis of Renewable Energy–Biodiversity Nexuses Using a Forest Landscape Model" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/haga-simulation-natural-capital-2019-h/" >Simulation of Natural Capital and Ecosystem Services in a Watershed in Northern Japan Focusing on the Future Underuse of Nature: By Linking Forest Landscape Model and Social Scenarios</a>
+    </div>
+
+    
+    <a href="/publication/haga-simulation-natural-capital-2019-h/"  class="summary-link">
+      <div class="article-style">
+        A quantitative scenario approach to compare the future state of natural capital and ecosystem services (ESs) plays a key role in …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Chihiro Haga</span>, <span >
+      Takahiro Inoue</span>, <span >
+      Wataru Hotta</span>, <span >
+      Rei Shibata</span>, <span >
+      Shizuka Hashimoto</span>, <span >
+      Hiroko Kurokawa</span>, <span >
+      Takashi Machimura</span>, <span >
+      Takanori Matsui</span>, <span >
+      Junko Morimoto</span>, <span >
+      Hideaki Shibata</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/haga-simulation-natural-capital-2019-h/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s11625-018-0623-9" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/haga-development-simulation-process-2016/" >A Development of Simulation Process of Landscape Diversity in Satoyama Landscape for Future Scenario Assessment —Using the Landis-Ii Model and the Modified Satoyama Index—</a>
+    </div>
+
+    
+    <a href="/publication/haga-development-simulation-process-2016/"  class="summary-link">
+      <div class="article-style">
+        The sustainable management of Satoyama landscape is a major to realize a society in harmony with nature. To support the sustainable …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Chihiro Haga</span>, <span >
+      Takanori Matsui</span>, <span >
+      Takashi Machimura</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/haga-development-simulation-process-2016/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.2208/jscejer.72.II_299" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+        <h2>Events</h2>
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3-poster/" >Nature Positiveかつ望ましい将来の景観のモデリング - 別寒辺牛川流域でのケーススタディ (Poster)</a>
+    </div>
+
+    
+    <a href="/talk/nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3-poster/"  class="summary-link">
+      <div class="article-style">
+        Nature Futures Frameworkを応用したシナリオ分析の事例紹介
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          May 27, 2023
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>淡路市</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://researchmap.jp/ChihiroHaga/presentations/42424851/attachment_file.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/talk/nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3-poster/" >
+      <img src="/talk/nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3-poster/featured_hu146706a50042daf730ca8ec19a5f71c2_1504391_150x0_resize_q75_lanczos.jpg" alt="Nature Positiveかつ望ましい将来の景観のモデリング - 別寒辺牛川流域でのケーススタディ (Poster)" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/online-oral-presentation-modelling-a-landscape-using-nature-futures-framework.-a-case-study-in-japan/" >Online Oral Presentation &#34;Modelling a landscape using nature futures framework. a case study in japan&#34;</a>
+    </div>
+
+    
+    <a href="/talk/online-oral-presentation-modelling-a-landscape-using-nature-futures-framework.-a-case-study-in-japan/"  class="summary-link">
+      <div class="article-style">
+        Nature Futures Frameworkを応用したシナリオ分析事例紹介
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jun 29, 2022
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Zoom</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://researchmap.jp/ChihiroHaga/presentations/40447917/attachment_file.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/talk/online-oral-presentation-modelling-a-landscape-using-nature-futures-framework.-a-case-study-in-japan/" >
+      <img src="/talk/online-oral-presentation-modelling-a-landscape-using-nature-futures-framework.-a-case-study-in-japan/featured_hue245c6f1913b9185b4d46fd770ee2646_5060371_150x0_resize_lanczos_3.png" alt="Online Oral Presentation &#34;Modelling a landscape using nature futures framework. a case study in japan&#34;" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/online-poster-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%A6%E3%81%AE%E6%A3%AE%E6%9E%97%E5%8B%95%E6%85%8B%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF/" >Online Poster &#34;地方自治体スケールでの森林動態モデリング&#34;</a>
+    </div>
+
+    
+    <a href="/talk/online-poster-%E5%9C%B0%E6%96%B9%E8%87%AA%E6%B2%BB%E4%BD%93%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%A6%E3%81%AE%E6%A3%AE%E6%9E%97%E5%8B%95%E6%85%8B%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF/"  class="summary-link">
+      <div class="article-style">
+        森林簿の検証とRSデータを用いた森林動態モデリングの検討
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 15, 2022
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Zoom</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/open-online-lecture-of-development-and-application-of-gravity-based-population-allocation-model/" >Open online lecture of &#34;Development and application of gravity-based population allocation model&#34;</a>
+    </div>
+
+    
+    <a href="/talk/open-online-lecture-of-development-and-application-of-gravity-based-population-allocation-model/"  class="summary-link">
+      <div class="article-style">
+        Development and application of gravity-based population allocation model
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Sep 3, 2021
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Zoom</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/Green-Engineers-Lab/Population-Scenario-Project" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/Green-Engineers-Lab/Population-Scenario-Project/files/7103531/Presentation_ChihiroHaga.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/talk/open-online-lecture-of-development-and-application-of-gravity-based-population-allocation-model/" >
+      <img src="/talk/open-online-lecture-of-development-and-application-of-gravity-based-population-allocation-model/featured_hu877dc81d675a70c9fcfb6210c914b27e_502227_150x0_resize_lanczos_3.png" alt="Open online lecture of &#34;Development and application of gravity-based population allocation model&#34;" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/invited-talk-at-icss/" >Invited talk at ICSS</a>
+    </div>
+
+    
+    <a href="/talk/invited-talk-at-icss/"  class="summary-link">
+      <div class="article-style">
+        PANCES scenario case study in Japan
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 13, 2021
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Zoom</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/flm/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/scenario-analysis/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://researchmap.jp/ChihiroHaga/misc/32224714/attachment_file.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=hEoggwV4FGw&amp;t=1s" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/talk/invited-talk-at-icss/" >
+      <img src="/talk/invited-talk-at-icss/featured_hu759b35cc9366fe7afde364a9fa2523d2_704259_150x0_resize_lanczos_3.png" alt="Invited talk at ICSS" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © 2025 Haga, Chihiro
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.5bb41a68c539a638856544de9689bd9c.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

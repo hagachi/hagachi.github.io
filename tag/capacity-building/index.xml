@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>capacity building | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/tag/capacity-building/</link>
+      <atom:link href="https://hagachi.github.io/tag/capacity-building/index.xml" rel="self" type="application/rss+xml" />
+    <description>capacity building</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Haga, Chihiro</copyright><lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>capacity building</title>
+      <link>https://hagachi.github.io/tag/capacity-building/</link>
+    </image>
+    
+    <item>
+      <title>環境情報科学センター 若手研究者交流会 2024</title>
+      <link>https://hagachi.github.io/talk/%E7%92%B0%E5%A2%83%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%8B%A5%E6%89%8B%E7%A0%94%E7%A9%B6%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-2024/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/%E7%92%B0%E5%A2%83%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%8B%A5%E6%89%8B%E7%A0%94%E7%A9%B6%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-2024/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;9月14日から15日に開催された、環境情報科学センターの若手研究者交流会で企画運営と司会を務めました。FY2023の交流会では講師として楽しく喋るだけだったのですが、今回は進行役でした。参加された学生の皆さんが積極的に質疑や議論に参加していただいたおかげで今回もとても有意義な会になりました。「今回のイベントでD進決めました！」という声が聞けたのが何より嬉しかったです。希少種になりつつある若手研究者同士の交流のお手伝いはこれからも続けていきたいと思います。&lt;/p&gt;
+&lt;p&gt;当日の様子はこちらから！
+&lt;a href=&#34;https://www.youtube.com/watch?v=3X0z4ZDoxqw&amp;amp;feature=youtu.be&amp;amp;themeRefresh=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=3X0z4ZDoxqw&amp;feature=youtu.be&amp;themeRefresh=1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

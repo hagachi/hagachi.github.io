@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;deep learning&#34; | Haga, Chihiro</title>
+    <title>&#34;Deep Learning&#34; | Haga, Chihiro</title>
     <link>https://hagachi.github.io/tag/deep-learning/</link>
       <atom:link href="https://hagachi.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;deep learning&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Haga, Chihiro</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <description>&#34;Deep Learning&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Haga, Chihiro</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>&#34;deep learning&#34;</title>
+      <title>&#34;Deep Learning&#34;</title>
       <link>https://hagachi.github.io/tag/deep-learning/</link>
     </image>
-    
-    <item>
-      <title>SDGsの目標達成に向けた環境音識別技術の開発 : 深層学習を用いた日本産コウモリ30種の種判別システムの構築</title>
-      <link>https://hagachi.github.io/publication/xiaolin-sd-gsno-mu-biao-da-chengni-xiangketa-huan-jing-yin-shi-bie-ji-shuno-kai-fa-shen-ceng-xue-xiwo-yongita-ri-ben-chankoumori-30-zhongno-zhong-pan-biesisutemuno-gou-zhu-2020/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/publication/xiaolin-sd-gsno-mu-biao-da-chengni-xiangketa-huan-jing-yin-shi-bie-ji-shuno-kai-fa-shen-ceng-xue-xiwo-yongita-ri-ben-chankoumori-30-zhongno-zhong-pan-biesisutemuno-gou-zhu-2020/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>衛星夜間光情報に基づく深層学習による建築物の延床面積推計に関する研究</title>

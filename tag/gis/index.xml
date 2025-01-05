@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS | Haga, Chihiro</title>
+    <link>https://hagachi.github.io/tag/gis/</link>
+      <atom:link href="https://hagachi.github.io/tag/gis/index.xml" rel="self" type="application/rss+xml" />
+    <description>GIS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Haga, Chihiro</copyright><lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>GIS</title>
+      <link>https://hagachi.github.io/tag/gis/</link>
+    </image>
+    
+    <item>
+      <title>A Landscape-Aware Spatial Representation Learning for Understanding Plural Values of Nature (Poster)</title>
+      <link>https://hagachi.github.io/talk/a-landscape-aware-spatial-representation-learning-for-understanding-plural-values-of-nature-poster/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/a-landscape-aware-spatial-representation-learning-for-understanding-plural-values-of-nature-poster/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;10月上旬に福岡県北九州市で開催されたICLEE2024に学生と参加してきました。
+ICLEEは東アジアを中心とした自然環境の保全・管理・再生に関する学協会が共同で設立したコンソーシアムで、今年は設立から20周年の記念大会でした。国際会議では初の実行委員(ほぼ見習い)を務めました。&lt;/p&gt;
+&lt;p&gt;特に印象的だったのは、立ち上げに関わった研究者の皆さんの記念講演でした。それぞれの国で、景観生態学の立ち上げ〜国際的な交流の立ち上げに関わった経緯やその後についてのメッセージを直接お聞きできました。国際交流若手WGもIALE2027に向けて頑張ります。&lt;/p&gt;
+&lt;p&gt;今回は初めて単著でポスター発表を行い、Young Researchers Awardを受賞しました。OSM等々の地理空間情報を埋め込む技術を景観生態学に応用する研究です。まだしばらく継続する研究ですので、必ず論文にしていきます。&lt;/p&gt;
+&lt;p&gt;九州工業大学は大変素敵なキャンパスで、空き時間や早朝にはあちこち散策して過ごしました。ホストの環境デザイン研究室の皆さんの精力的＆ホスピタリティ溢れるサポートで、とても記憶に残る学会となりました。関係者の皆さま、ありがとうございました。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,22 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Haga, Chihiro</title>
+    <title>Presentations | Haga, Chihiro</title>
     <link>https://hagachi.github.io/event/</link>
       <atom:link href="https://hagachi.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Haga, Chihiro</copyright>
+    <description>Presentations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Haga, Chihiro</copyright>
     <image>
-      <url>https://hagachi.github.io/event/featured.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <url>https://hagachi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Presentations</title>
       <link>https://hagachi.github.io/event/</link>
     </image>
     
     <item>
-      <title>Poster Presentation &#34;Visualizing Conflicts between Terrestrial Biodiversity Conservation &amp; Renewable Energy Potential in Japan&#34;</title>
-      <link>https://hagachi.github.io/talk/poster-presentation-visualizing-conflicts-between-terrestrial-biodiversity-conservation-renewable-energy-potential-in-japan/</link>
+      <title>A Landscape-Aware Spatial Representation Learning for Understanding Plural Values of Nature (Poster)</title>
+      <link>https://hagachi.github.io/talk/a-landscape-aware-spatial-representation-learning-for-understanding-plural-values-of-nature-poster/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/a-landscape-aware-spatial-representation-learning-for-understanding-plural-values-of-nature-poster/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;10月上旬に福岡県北九州市で開催されたICLEE2024に学生と参加してきました。
+ICLEEは東アジアを中心とした自然環境の保全・管理・再生に関する学協会が共同で設立したコンソーシアムで、今年は設立から20周年の記念大会でした。国際会議では初の実行委員(ほぼ見習い)を務めました。&lt;/p&gt;
+&lt;p&gt;特に印象的だったのは、立ち上げに関わった研究者の皆さんの記念講演でした。それぞれの国で、景観生態学の立ち上げ〜国際的な交流の立ち上げに関わった経緯やその後についてのメッセージを直接お聞きできました。国際交流若手WGもIALE2027に向けて頑張ります。&lt;/p&gt;
+&lt;p&gt;今回は初めて単著でポスター発表を行い、Young Researchers Awardを受賞しました。OSM等々の地理空間情報を埋め込む技術を景観生態学に応用する研究です。まだしばらく継続する研究ですので、必ず論文にしていきます。&lt;/p&gt;
+&lt;p&gt;九州工業大学は大変素敵なキャンパスで、空き時間や早朝にはあちこち散策して過ごしました。ホストの環境デザイン研究室の皆さんの精力的＆ホスピタリティ溢れるサポートで、とても記憶に残る学会となりました。関係者の皆さま、ありがとうございました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>環境情報科学センター 若手研究者交流会 2024</title>
+      <link>https://hagachi.github.io/talk/%E7%92%B0%E5%A2%83%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%8B%A5%E6%89%8B%E7%A0%94%E7%A9%B6%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-2024/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://hagachi.github.io/talk/%E7%92%B0%E5%A2%83%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E8%8B%A5%E6%89%8B%E7%A0%94%E7%A9%B6%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-2024/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;9月14日から15日に開催された、環境情報科学センターの若手研究者交流会で企画運営と司会を務めました。FY2023の交流会では講師として楽しく喋るだけだったのですが、今回は進行役でした。参加された学生の皆さんが積極的に質疑や議論に参加していただいたおかげで今回もとても有意義な会になりました。「今回のイベントでD進決めました！」という声が聞けたのが何より嬉しかったです。希少種になりつつある若手研究者同士の交流のお手伝いはこれからも続けていきたいと思います。&lt;/p&gt;
+&lt;p&gt;当日の様子はこちらから！
+&lt;a href=&#34;https://www.youtube.com/watch?v=3X0z4ZDoxqw&amp;amp;feature=youtu.be&amp;amp;themeRefresh=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=3X0z4ZDoxqw&amp;feature=youtu.be&amp;themeRefresh=1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Conflicts between Terrestrial Biodiversity Conservation &amp; Renewable Energy Potential in Japan (Poster)</title>
+      <link>https://hagachi.github.io/talk/visualizing-conflicts-between-terrestrial-biodiversity-conservation-renewable-energy-potential-in-japan-poster/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/talk/poster-presentation-visualizing-conflicts-between-terrestrial-biodiversity-conservation-renewable-energy-potential-in-japan/</guid>
+      <guid>https://hagachi.github.io/talk/visualizing-conflicts-between-terrestrial-biodiversity-conservation-renewable-energy-potential-in-japan-poster/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,10 +84,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Poster Presentation &#34;Nature Positiveかつ望ましい将来の景観のモデリング - 別寒辺牛川流域でのケーススタディ&#34;</title>
-      <link>https://hagachi.github.io/talk/poster-presentation-nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3/</link>
+      <title>Nature Positiveかつ望ましい将来の景観のモデリング - 別寒辺牛川流域でのケーススタディ (Poster)</title>
+      <link>https://hagachi.github.io/talk/nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3-poster/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://hagachi.github.io/talk/poster-presentation-nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3/</guid>
+      <guid>https://hagachi.github.io/talk/nature-positive%E3%81%8B%E3%81%A4%E6%9C%9B%E3%81%BE%E3%81%97%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E6%99%AF%E8%A6%B3%E3%81%AE%E3%83%A2%E3%83%86%E3%83%AA%E3%83%B3%E3%82%AF-%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E5%B7%9D%E6%B5%81%E5%9F%9F%E3%81%A6%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%86%E3%82%A3-poster/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
